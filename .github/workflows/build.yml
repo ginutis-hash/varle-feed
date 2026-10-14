@@ -1,0 +1,31 @@
+name: Build varle.lt feed
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"   # kas 6 val.
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Generate feed
+        env:
+          KAINA24_URL: ${{ secrets.KAINA24_URL }}
+          GOOGLE_TSV_URL: ${{ secrets.GOOGLE_TSV_URL }}
+          DELIVERY_TEXT: "1-3 d. d."
+        run: python build_feed.py
+      - name: Commit feed
+        run: |
+          git config user.name "feed-bot"
+          git config user.email "feed-bot@users.noreply.github.com"
+          git add docs/varle.xml
+          git diff --cached --quiet || git commit -m "Update varle.xml $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
