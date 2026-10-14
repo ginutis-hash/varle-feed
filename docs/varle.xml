@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> varle.lt feed, generated 2026-10-14 07:03 UTC -->
+<!-- citrina.eu -> varle.lt feed, generated 2026-10-14 12:52 UTC -->
 <root>
   <categories>
     <category>
@@ -271,7 +271,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/su/super-multivitaminu-ir-mineralu-be-gelezies-kompleksas-n130-1.jpg]]></image>
       </images>
-      <quantity>432</quantity>
+      <quantity>430</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614018324</barcode>
       <model><![CDATA[SW832]]></model>
@@ -543,7 +543,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/as/astragaluskulksne-n100-1.jpg]]></image>
       </images>
-      <quantity>96</quantity>
+      <quantity>95</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614015040</barcode>
       <model><![CDATA[SW504]]></model>
@@ -690,7 +690,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/ze/zensenis-ginseng-500mg-n100-1.jpg]]></image>
       </images>
-      <quantity>467</quantity>
+      <quantity>466</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614019697</barcode>
       <model><![CDATA[SW969]]></model>
@@ -732,7 +732,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/ms/msm-1000-mg-n120-1.jpg]]></image>
       </images>
-      <quantity>226</quantity>
+      <quantity>225</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614026558</barcode>
       <model><![CDATA[SWU655]]></model>
@@ -879,7 +879,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/gi/ginkgo-biloba-standartizuota-60mg-n120-1.jpg]]></image>
       </images>
-      <quantity>381</quantity>
+      <quantity>378</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614018928</barcode>
       <model><![CDATA[SW892]]></model>
@@ -1005,7 +1005,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/re/resveratrolis-250-mg-n30-1.jpg]]></image>
       </images>
-      <quantity>1725</quantity>
+      <quantity>1723</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614025308</barcode>
       <model><![CDATA[SWU530]]></model>
@@ -1152,7 +1152,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/hi/hialurono-rugstis-kolagenas-n60-1.jpg]]></image>
       </images>
-      <quantity>376</quantity>
+      <quantity>375</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614028613</barcode>
       <model><![CDATA[SWU861]]></model>
@@ -1236,7 +1236,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/5_/5-htp-geram-miegui-100mg-60-kaps-swanson-jav-1.jpg]]></image>
       </images>
-      <quantity>2203</quantity>
+      <quantity>2202</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614211121</barcode>
       <model><![CDATA[SWU1112]]></model>
@@ -1341,7 +1341,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/li/liuteinas-zeaksantinas-n60-1.jpg]]></image>
       </images>
-      <quantity>509</quantity>
+      <quantity>508</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614029863</barcode>
       <model><![CDATA[SWU986]]></model>
@@ -1383,7 +1383,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/me/melatoninas-jav-120-kaps-swanson-jav-1.jpg]]></image>
       </images>
-      <quantity>255</quantity>
+      <quantity>254</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614015422</barcode>
       <model><![CDATA[SW542]]></model>
@@ -1551,7 +1551,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/ko/kofermentas-q10-200-mg-n30-2-1.jpg]]></image>
       </images>
-      <quantity>2191</quantity>
+      <quantity>2189</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614020341</barcode>
       <model><![CDATA[SWU034]]></model>
@@ -1845,7 +1845,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/vi/vitaminas-d3-1000tv-n250-kopija-1.png]]></image>
       </images>
-      <quantity>199</quantity>
+      <quantity>198</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614113715</barcode>
       <model><![CDATA[SW1371]]></model>
@@ -2538,7 +2538,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/tr/trigubas-magnio-kompleksas-400-mg-100-veg-kaps-swanson-jav-1.jpg]]></image>
       </images>
-      <quantity>496</quantity>
+      <quantity>495</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614018089</barcode>
       <model><![CDATA[SW808]]></model>
