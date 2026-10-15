@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> varle.lt feed, generated 2026-10-15 00:51 UTC -->
+<!-- citrina.eu -> varle.lt feed, generated 2026-10-15 06:53 UTC -->
 <root>
   <categories>
     <category>
@@ -103,7 +103,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/in/inozitolis-650-mg-n100-1.jpg]]></image>
       </images>
-      <quantity>983</quantity>
+      <quantity>982</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614018744</barcode>
       <model><![CDATA[SW874]]></model>
@@ -1089,7 +1089,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/ch/chromas-200-mcg-n100-1.jpg]]></image>
       </images>
-      <quantity>400</quantity>
+      <quantity>399</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614019222</barcode>
       <model><![CDATA[SW922]]></model>
