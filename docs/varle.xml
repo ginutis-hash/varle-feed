@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> varle.lt feed, generated 2026-10-14 18:50 UTC -->
+<!-- citrina.eu -> varle.lt feed, generated 2026-10-15 00:51 UTC -->
 <root>
   <categories>
     <category>
@@ -103,7 +103,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/in/inozitolis-650-mg-n100-1.jpg]]></image>
       </images>
-      <quantity>984</quantity>
+      <quantity>983</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614018744</barcode>
       <model><![CDATA[SW874]]></model>
@@ -858,7 +858,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/gi/ginkgo-biloba-60mg-n30-1.jpg]]></image>
       </images>
-      <quantity>405</quantity>
+      <quantity>404</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614112428</barcode>
       <model><![CDATA[SW1242]]></model>
@@ -1803,7 +1803,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/vi/vitaminu-b-kompleksas-n100-1.jpg]]></image>
       </images>
-      <quantity>1228</quantity>
+      <quantity>1227</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614010571</barcode>
       <model><![CDATA[SW057]]></model>
@@ -2055,7 +2055,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/le/lecitinas-be-gmo-1200mg-n90-kopija-1.jpg]]></image>
       </images>
-      <quantity>697</quantity>
+      <quantity>694</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614029917</barcode>
       <model><![CDATA[SWU991]]></model>
