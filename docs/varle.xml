@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> varle.lt feed, generated 2026-10-15 06:53 UTC -->
+<!-- citrina.eu -> varle.lt feed, generated 2026-10-15 12:54 UTC -->
 <root>
   <categories>
     <category>
@@ -312,7 +312,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/gl/gliukozaminas-chondroitinas-ir-msm-n120-1.jpg]]></image>
       </images>
-      <quantity>182</quantity>
+      <quantity>181</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614110097</barcode>
       <model><![CDATA[SW1009]]></model>
@@ -543,7 +543,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/as/astragaluskulksne-n100-1.jpg]]></image>
       </images>
-      <quantity>95</quantity>
+      <quantity>93</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614015040</barcode>
       <model><![CDATA[SW504]]></model>
@@ -900,7 +900,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/go/gotu-kola-n60-1.jpg]]></image>
       </images>
-      <quantity>469</quantity>
+      <quantity>468</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614113326</barcode>
       <model><![CDATA[SW1332]]></model>
@@ -921,7 +921,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/gu/guarana-500mg-n100-1.jpg]]></image>
       </images>
-      <quantity>461</quantity>
+      <quantity>460</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614019789</barcode>
       <model><![CDATA[SW978]]></model>
@@ -1047,7 +1047,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/ap/apple-cider-200mg-n120-1.jpg]]></image>
       </images>
-      <quantity>438</quantity>
+      <quantity>437</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614040363</barcode>
       <model><![CDATA[SWD036]]></model>
@@ -1173,7 +1173,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/vi/vitaminas-e-naturalus-n100-200tv-1.jpg]]></image>
       </images>
-      <quantity>437</quantity>
+      <quantity>436</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614011363</barcode>
       <model><![CDATA[SW136]]></model>
@@ -1278,7 +1278,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/ka/kalis-n120-1.jpg]]></image>
       </images>
-      <quantity>419</quantity>
+      <quantity>418</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614023953</barcode>
       <model><![CDATA[SWU395]]></model>
@@ -1719,7 +1719,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/pi/pieno-rugsties-bakterijos-probiotikai-16-n60-2.jpg]]></image>
       </images>
-      <quantity>2066</quantity>
+      <quantity>2065</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614190518</barcode>
       <model><![CDATA[SWA051]]></model>
@@ -1803,7 +1803,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/vi/vitaminu-b-kompleksas-n100-1.jpg]]></image>
       </images>
-      <quantity>1227</quantity>
+      <quantity>1226</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614010571</barcode>
       <model><![CDATA[SW057]]></model>
@@ -2097,7 +2097,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/om/omega-3-1000-mg-citrinu-skonio-zuvu-taukai-150-kaps-swanson-jav-1.jpg]]></image>
       </images>
-      <quantity>764</quantity>
+      <quantity>761</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614117836</barcode>
       <model><![CDATA[SW1783]]></model>
@@ -2139,7 +2139,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/vi/vitaminas-c-su-ersketuogemis-1000mg-30-kaps-swanson-jav-kopija-1.jpg]]></image>
       </images>
-      <quantity>675</quantity>
+      <quantity>674</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614110547</barcode>
       <model><![CDATA[SW1054]]></model>
