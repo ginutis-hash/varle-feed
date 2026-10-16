@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> varle.lt feed, generated 2026-10-16 12:53 UTC -->
+<!-- citrina.eu -> varle.lt feed, generated 2026-10-16 18:47 UTC -->
 <root>
   <categories>
     <category>
@@ -1236,7 +1236,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/5_/5-htp-geram-miegui-100mg-60-kaps-swanson-jav-1.jpg]]></image>
       </images>
-      <quantity>2202</quantity>
+      <quantity>2200</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614211121</barcode>
       <model><![CDATA[SWU1112]]></model>
@@ -2622,7 +2622,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/as/asvaganda-ashwagandha-ksm-66-ekstraktas-60-kaps-swanson-jav-kopija-1.jpg]]></image>
       </images>
-      <quantity>407</quantity>
+      <quantity>406</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614019574</barcode>
       <model><![CDATA[SW957]]></model>
