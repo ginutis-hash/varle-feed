@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> varle.lt feed, generated 2026-10-16 18:47 UTC -->
+<!-- citrina.eu -> varle.lt feed, generated 2026-10-17 00:52 UTC -->
 <root>
   <categories>
     <category>
@@ -271,7 +271,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/su/super-multivitaminu-ir-mineralu-be-gelezies-kompleksas-n130-1.jpg]]></image>
       </images>
-      <quantity>430</quantity>
+      <quantity>427</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614018324</barcode>
       <model><![CDATA[SW832]]></model>
@@ -417,7 +417,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/ci/ciberzole-n100-720-mg-1.jpg]]></image>
       </images>
-      <quantity>599</quantity>
+      <quantity>598</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614019406</barcode>
       <model><![CDATA[SW940]]></model>
@@ -879,7 +879,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/gi/ginkgo-biloba-standartizuota-60mg-n120-1.jpg]]></image>
       </images>
-      <quantity>377</quantity>
+      <quantity>375</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614018928</barcode>
       <model><![CDATA[SW892]]></model>
@@ -1467,7 +1467,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/ci/cinkas-30-mg-n250-1.jpg]]></image>
       </images>
-      <quantity>434</quantity>
+      <quantity>433</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614012032</barcode>
       <model><![CDATA[SW203]]></model>
@@ -2391,7 +2391,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/ch/chlorella-kyoto-300-kaps-swanson-jav-1.jpg]]></image>
       </images>
-      <quantity>174</quantity>
+      <quantity>171</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614180298</barcode>
       <model><![CDATA[SWK029]]></model>
