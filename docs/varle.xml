@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> varle.lt feed, generated 2026-10-20 06:52 UTC -->
+<!-- citrina.eu -> varle.lt feed, generated 2026-10-20 12:53 UTC -->
 <root>
   <categories>
     <category>
@@ -82,7 +82,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/bl/black-cohosh-kekine-juodzole-540-mg-n60-1.jpg]]></image>
       </images>
-      <quantity>186</quantity>
+      <quantity>183</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614113449</barcode>
       <model><![CDATA[SW1344]]></model>
@@ -1362,7 +1362,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/ma/magnis-250-kaps-swanson-jav-1.jpg]]></image>
       </images>
-      <quantity>432</quantity>
+      <quantity>431</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614011967</barcode>
       <model><![CDATA[SW196]]></model>
@@ -2055,7 +2055,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/le/lecitinas-be-gmo-1200mg-n90-kopija-1.jpg]]></image>
       </images>
-      <quantity>693</quantity>
+      <quantity>692</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614029917</barcode>
       <model><![CDATA[SWU991]]></model>
