@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> varle.lt feed, generated 2026-10-21 00:54 UTC -->
+<!-- citrina.eu -> varle.lt feed, generated 2026-10-21 06:53 UTC -->
 <root>
   <categories>
     <category>
@@ -250,7 +250,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/l_/l-argininas-1.jpg]]></image>
       </images>
-      <quantity>495</quantity>
+      <quantity>494</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614018522</barcode>
       <model><![CDATA[SW852]]></model>
@@ -271,7 +271,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/su/super-multivitaminu-ir-mineralu-be-gelezies-kompleksas-n130-1.jpg]]></image>
       </images>
-      <quantity>427</quantity>
+      <quantity>426</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614018324</barcode>
       <model><![CDATA[SW832]]></model>
@@ -2139,7 +2139,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/vi/vitaminas-c-su-ersketuogemis-1000mg-30-kaps-swanson-jav-kopija-1.jpg]]></image>
       </images>
-      <quantity>674</quantity>
+      <quantity>673</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614110547</barcode>
       <model><![CDATA[SW1054]]></model>
@@ -2538,7 +2538,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/tr/trigubas-magnio-kompleksas-400-mg-100-veg-kaps-swanson-jav-1.jpg]]></image>
       </images>
-      <quantity>495</quantity>
+      <quantity>494</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614018089</barcode>
       <model><![CDATA[SW808]]></model>
