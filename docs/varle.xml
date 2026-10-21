@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> varle.lt feed, generated 2026-10-20 18:48 UTC -->
+<!-- citrina.eu -> varle.lt feed, generated 2026-10-21 00:54 UTC -->
 <root>
   <categories>
     <category>
@@ -711,7 +711,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/bo/bosvelia-n100-2-1.jpg]]></image>
       </images>
-      <quantity>186</quantity>
+      <quantity>185</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614019888</barcode>
       <model><![CDATA[SW988]]></model>
@@ -732,7 +732,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/ms/msm-1000-mg-n120-1.jpg]]></image>
       </images>
-      <quantity>224</quantity>
+      <quantity>223</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614026558</barcode>
       <model><![CDATA[SWU655]]></model>
@@ -795,7 +795,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/al/alfa-lipo-rugstis-100-mg-n120-1.jpg]]></image>
       </images>
-      <quantity>455</quantity>
+      <quantity>454</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614019826</barcode>
       <model><![CDATA[SW982]]></model>
@@ -2391,7 +2391,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/ch/chlorella-kyoto-300-kaps-swanson-jav-1.jpg]]></image>
       </images>
-      <quantity>171</quantity>
+      <quantity>169</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614180298</barcode>
       <model><![CDATA[SWK029]]></model>
