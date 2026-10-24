@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> varle.lt feed, generated 2026-10-24 00:58 UTC -->
+<!-- citrina.eu -> varle.lt feed, generated 2026-10-24 06:50 UTC -->
 <root>
   <categories>
     <category>
@@ -271,7 +271,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/su/super-multivitaminu-ir-mineralu-be-gelezies-kompleksas-n130-1.jpg]]></image>
       </images>
-      <quantity>423</quantity>
+      <quantity>421</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614018324</barcode>
       <model><![CDATA[SW832]]></model>
@@ -1068,7 +1068,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/bi/biotinas-n100-1.jpg]]></image>
       </images>
-      <quantity>388</quantity>
+      <quantity>387</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614018775</barcode>
       <model><![CDATA[SW877]]></model>
@@ -1467,7 +1467,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/ci/cinkas-30-mg-n250-1.jpg]]></image>
       </images>
-      <quantity>432</quantity>
+      <quantity>431</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614012032</barcode>
       <model><![CDATA[SW203]]></model>
@@ -1845,7 +1845,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/vi/vitaminas-d3-1000tv-n250-kopija-1.png]]></image>
       </images>
-      <quantity>185</quantity>
+      <quantity>184</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614113715</barcode>
       <model><![CDATA[SW1371]]></model>
@@ -2097,7 +2097,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/om/omega-3-1000-mg-citrinu-skonio-zuvu-taukai-150-kaps-swanson-jav-1.jpg]]></image>
       </images>
-      <quantity>748</quantity>
+      <quantity>747</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614117836</barcode>
       <model><![CDATA[SW1783]]></model>
