@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> varle.lt feed, generated 2026-10-23 18:49 UTC -->
+<!-- citrina.eu -> varle.lt feed, generated 2026-10-24 00:58 UTC -->
 <root>
   <categories>
     <category>
@@ -1719,7 +1719,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/pi/pieno-rugsties-bakterijos-probiotikai-16-n60-2.jpg]]></image>
       </images>
-      <quantity>2064</quantity>
+      <quantity>2063</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614190518</barcode>
       <model><![CDATA[SWA051]]></model>
@@ -1782,7 +1782,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/vi/vitaminas-c-su-ersketuogemis-1000-mg-1.jpg]]></image>
       </images>
-      <quantity>445</quantity>
+      <quantity>444</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614112510</barcode>
       <model><![CDATA[SW1251]]></model>
@@ -2118,7 +2118,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/ti/tikrasis-margainis-milk-thistle-500-mg-100-kaps-swanson-jav-kopija-1.jpg]]></image>
       </images>
-      <quantity>482</quantity>
+      <quantity>481</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614140513</barcode>
       <model><![CDATA[SWH051]]></model>
@@ -2265,7 +2265,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/ge/gelezis-25-mg-60-vegetarisku-kaps-swanson-jav-kopija-1.jpg]]></image>
       </images>
-      <quantity>436</quantity>
+      <quantity>435</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614020761</barcode>
       <model><![CDATA[SWU076]]></model>
@@ -2748,7 +2748,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/pi/pieno-rugsties-bakterijos-probiotikai-16-60-kaps-swanson-jav-kopija-2-1.jpg]]></image>
       </images>
-      <quantity>2096</quantity>
+      <quantity>2095</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614190273</barcode>
       <model><![CDATA[SWA027]]></model>
