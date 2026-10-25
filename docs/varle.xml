@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> varle.lt feed, generated 2026-10-25 06:50 UTC -->
+<!-- citrina.eu -> varle.lt feed, generated 2026-10-25 12:48 UTC -->
 <root>
   <categories>
     <category>
@@ -103,7 +103,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/in/inozitolis-650-mg-n100-1.jpg]]></image>
       </images>
-      <quantity>976</quantity>
+      <quantity>975</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614018744</barcode>
       <model><![CDATA[SW874]]></model>
@@ -627,7 +627,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/un/una-de-gato-n100-1.png]]></image>
       </images>
-      <quantity>572</quantity>
+      <quantity>571</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614015149</barcode>
       <model><![CDATA[SW514]]></model>
@@ -1362,7 +1362,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/ma/magnis-250-kaps-swanson-jav-1.jpg]]></image>
       </images>
-      <quantity>431</quantity>
+      <quantity>430</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614011967</barcode>
       <model><![CDATA[SW196]]></model>
@@ -1866,7 +1866,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/vi/vitaminu-b-kompleksas-n100-kopija-1.png]]></image>
       </images>
-      <quantity>326</quantity>
+      <quantity>325</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614010304</barcode>
       <model><![CDATA[SW030]]></model>
@@ -2286,7 +2286,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/ko/kofermentas-q10-120-mg-100-kaps-swanson-jav-kopija-1.jpg]]></image>
       </images>
-      <quantity>779</quantity>
+      <quantity>778</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614025612</barcode>
       <model><![CDATA[SWU561]]></model>
