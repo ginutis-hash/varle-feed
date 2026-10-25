@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> varle.lt feed, generated 2026-10-24 18:42 UTC -->
+<!-- citrina.eu -> varle.lt feed, generated 2026-10-25 00:50 UTC -->
 <root>
   <categories>
     <category>
@@ -417,7 +417,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/ci/ciberzole-n100-720-mg-1.jpg]]></image>
       </images>
-      <quantity>597</quantity>
+      <quantity>596</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614019406</barcode>
       <model><![CDATA[SW940]]></model>
@@ -1005,7 +1005,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/re/resveratrolis-250-mg-n30-1.jpg]]></image>
       </images>
-      <quantity>1722</quantity>
+      <quantity>1721</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614025308</barcode>
       <model><![CDATA[SWU530]]></model>
@@ -1026,7 +1026,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/vi/vitaminas-k2-50mcg-naturalus-30-kaps-swanson-jav-1.jpg]]></image>
       </images>
-      <quantity>853</quantity>
+      <quantity>852</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614026725</barcode>
       <model><![CDATA[SWU672]]></model>
@@ -1215,7 +1215,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/ga/gaba-500-mg-n100-1.jpg]]></image>
       </images>
-      <quantity>465</quantity>
+      <quantity>464</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614018720</barcode>
       <model><![CDATA[SW872]]></model>
@@ -1236,7 +1236,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/5_/5-htp-geram-miegui-100mg-60-kaps-swanson-jav-1.jpg]]></image>
       </images>
-      <quantity>2200</quantity>
+      <quantity>2199</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614211121</barcode>
       <model><![CDATA[SWU1112]]></model>
@@ -1341,7 +1341,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/li/liuteinas-zeaksantinas-n60-1.jpg]]></image>
       </images>
-      <quantity>508</quantity>
+      <quantity>507</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614029863</barcode>
       <model><![CDATA[SWU986]]></model>
@@ -1383,7 +1383,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/me/melatoninas-jav-120-kaps-swanson-jav-1.jpg]]></image>
       </images>
-      <quantity>254</quantity>
+      <quantity>253</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614015422</barcode>
       <model><![CDATA[SW542]]></model>
@@ -1740,7 +1740,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/se/selenas-100-mcg-n200-1.jpg]]></image>
       </images>
-      <quantity>322</quantity>
+      <quantity>321</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614012353</barcode>
       <model><![CDATA[SW235]]></model>
@@ -2097,7 +2097,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/om/omega-3-1000-mg-citrinu-skonio-zuvu-taukai-150-kaps-swanson-jav-1.jpg]]></image>
       </images>
-      <quantity>747</quantity>
+      <quantity>746</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614117836</barcode>
       <model><![CDATA[SW1783]]></model>
@@ -2622,7 +2622,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/as/asvaganda-ashwagandha-ksm-66-ekstraktas-60-kaps-swanson-jav-kopija-1.jpg]]></image>
       </images>
-      <quantity>406</quantity>
+      <quantity>405</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614019574</barcode>
       <model><![CDATA[SW957]]></model>
@@ -2811,7 +2811,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/sw/swanson-cinkas-bisglicinatas-15-mg-60-kaps-swanson-jav-1.jpg]]></image>
       </images>
-      <quantity>258</quantity>
+      <quantity>257</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614210896</barcode>
       <model><![CDATA[SWU1089]]></model>
