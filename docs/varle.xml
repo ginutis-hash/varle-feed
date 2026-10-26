@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> varle.lt feed, generated 2026-10-26 01:05 UTC -->
+<!-- citrina.eu -> varle.lt feed, generated 2026-10-26 06:57 UTC -->
 <root>
   <categories>
     <category>
@@ -1467,7 +1467,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/ci/cinkas-30-mg-n250-1.jpg]]></image>
       </images>
-      <quantity>431</quantity>
+      <quantity>430</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614012032</barcode>
       <model><![CDATA[SW203]]></model>
@@ -1614,7 +1614,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/l_/l-lizinas-500mg-n100-2-1.jpg]]></image>
       </images>
-      <quantity>489</quantity>
+      <quantity>486</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614012681</barcode>
       <model><![CDATA[SW268]]></model>
@@ -2559,7 +2559,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/ha/hair-skin-nails-plaukams-odai-nagams-n60-1-1.jpg]]></image>
       </images>
-      <quantity>16</quantity>
+      <quantity>14</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614018836</barcode>
       <model><![CDATA[SW883-kopija-1]]></model>
