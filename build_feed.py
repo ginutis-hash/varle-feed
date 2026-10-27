@@ -26,9 +26,14 @@ GOOGLE_TSV_URL = os.environ.get("GOOGLE_TSV_URL")
 DELIVERY_TEXT = os.environ.get("DELIVERY_TEXT", "1-3 d. d.")
 OUTPUT = os.environ.get("OUTPUT", "docs/varle.xml")
 
-UPPER_TOKENS = {"JAV", "USA", "EU", "ES", "DHA", "EPA", "MSM", "CLA", "ALA", "NAC",
-                "B12", "B6", "D3", "K2", "C", "E", "A", "D", "Q10", "CoQ10"}
+UPPER_TOKENS = {"JAV", "USA", "EU", "ES", "DHA", "EPA", "MSM", "CLA", "ALA", "NAC", "TMG", "GMO",
+                "B12", "B6", "D3", "K2", "C", "E", "A", "D", "Q10", "CoQ10", "HCL", "HCl", "ZMA", "GABA"}
 UNITS = {"MG", "G", "MCG", "ML", "IU", "TV", "KAPS", "TAB", "KAPS.", "TAB.", "VNT", "VNT."}
+SMALL_WORDS = {"su", "ir", "be", "iš", "nuo", "iki", "bei", "ar", "dėl", "po", "prie", "už"}
+# Prekės, kurių pavadinimas prasideda šiais fragmentais, į Varle neeksportuojamos
+# (trumpo galiojimo išpardavimai dubliuoja barkodus su pagrindine preke).
+EXCLUDE_TITLE_PREFIXES = [p.strip().lower() for p in
+                          os.environ.get("EXCLUDE_TITLE_PREFIXES", "[galiojimas").split("|") if p.strip()]
 
 
 def fetch(url: str) -> bytes:
@@ -43,10 +48,12 @@ def nice_title(t: str) -> str:
     if t != t.upper():
         return t  # jau ne vien didziosios - paliekam
     out = []
-    for w in t.split(" "):
+    for i, w in enumerate(t.split(" ")):
         core = w.strip("(),.;:")
         if core in UPPER_TOKENS:
             out.append(w)
+        elif i > 0 and core.lower() in SMALL_WORDS:
+            out.append(w.lower())
         elif core.upper() in UNITS:
             out.append(w.lower())
         elif re.search(r"\d", core):
@@ -129,6 +136,10 @@ def build(kaina, google):
     skipped = []
     for pid, it in kaina.items():
         g = google.get(pid, {})
+        tl = it["title"].strip().lower()
+        if any(tl.startswith(p) for p in EXCLUDE_TITLE_PREFIXES):
+            skipped.append((pid, it["title"], "ispardavimas (EXCLUDE_TITLE_PREFIXES)"))
+            continue
         ean = re.sub(r"\D", "", it["ean"])
         if not ean or len(ean) < 8:
             skipped.append((pid, it["title"], "nera barkodo"))
