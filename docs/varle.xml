@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> varle.lt feed, generated 2026-10-27 00:57 UTC -->
+<!-- citrina.eu -> varle.lt feed, generated 2026-10-27 06:53 UTC -->
 <root>
   <categories>
     <category>
@@ -1971,7 +1971,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/kv/kvercetinas-naturalus-475-mg-n60-kopija-1.jpg]]></image>
       </images>
-      <quantity>4985</quantity>
+      <quantity>4984</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614114118</barcode>
       <model><![CDATA[SW1411]]></model>
@@ -2055,7 +2055,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/le/lecitinas-be-gmo-1200mg-n90-kopija-1.jpg]]></image>
       </images>
-      <quantity>692</quantity>
+      <quantity>690</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614029917</barcode>
       <model><![CDATA[SWU991]]></model>
@@ -2118,7 +2118,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/ti/tikrasis-margainis-milk-thistle-500-mg-100-kaps-swanson-jav-kopija-1.jpg]]></image>
       </images>
-      <quantity>481</quantity>
+      <quantity>480</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614140513</barcode>
       <model><![CDATA[SWH051]]></model>
