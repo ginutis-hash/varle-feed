@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> kaina24.lt feed, generated 2026-10-28 01:07 UTC -->
+<!-- citrina.eu -> kaina24.lt feed, generated 2026-10-28 07:04 UTC -->
 <products>
 <product id="36">
 <title><![CDATA[Black Cohosh 540mg 60 kaps. (Swanson, JAV)]]></title>
@@ -368,7 +368,7 @@
 <product id="123">
 <title><![CDATA[Ženšenis (Ginseng) 500mg 100 kaps. (Swanson, JAV)]]></title>
 <price>13.75</price>
-<stock>466</stock>
+<stock>464</stock>
 <ean_code>0087614019697</ean_code>
 <manufacturer_code>SW969</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -420,7 +420,7 @@
 <product id="131">
 <title><![CDATA[Vitaminas D3 1000tv 250 kaps. (Swanson, JAV)]]></title>
 <price>10.47</price>
-<stock>430</stock>
+<stock>429</stock>
 <ean_code>0087614110301</ean_code>
 <manufacturer_code>SW1030</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -784,7 +784,7 @@
 <product id="215">
 <title><![CDATA[Magnis 250 kaps. (Swanson, JAV)]]></title>
 <price>10.48</price>
-<stock>429</stock>
+<stock>430</stock>
 <ean_code>0087614011967</ean_code>
 <manufacturer_code>SW196</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
