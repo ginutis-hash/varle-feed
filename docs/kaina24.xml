@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> kaina24.lt feed, generated 2026-10-28 07:04 UTC -->
+<!-- citrina.eu -> kaina24.lt feed, generated 2026-10-28 13:04 UTC -->
 <products>
 <product id="36">
 <title><![CDATA[Black Cohosh 540mg 60 kaps. (Swanson, JAV)]]></title>
@@ -433,7 +433,7 @@
 <product id="133">
 <title><![CDATA[Alfa Lipoinė Rūgštis 100 mg 120 kaps. (Swanson, JAV)]]></title>
 <price>6.95</price>
-<stock>454</stock>
+<stock>450</stock>
 <ean_code>0087614019826</ean_code>
 <manufacturer_code>SW982</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -615,7 +615,7 @@
 <product id="181">
 <title><![CDATA[Chromas 200mcg 100 kaps. (Swanson, JAV)]]></title>
 <price>5.47</price>
-<stock>398</stock>
+<stock>397</stock>
 <ean_code>0087614019222</ean_code>
 <manufacturer_code>SW922</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
