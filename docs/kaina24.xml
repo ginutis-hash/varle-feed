@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> kaina24.lt feed, generated 2026-10-29 13:06 UTC -->
+<!-- citrina.eu -> kaina24.lt feed, generated 2026-10-29 18:59 UTC -->
 <products>
 <product id="36">
 <title><![CDATA[Black Cohosh 540mg 60 kaps. (Swanson, JAV)]]></title>
@@ -173,7 +173,7 @@
 <product id="74">
 <title><![CDATA[NAC N-acetyl Cysteine 150mg 100 kaps. (Swanson, JAV)]]></title>
 <price>11.94</price>
-<stock>462</stock>
+<stock>461</stock>
 <ean_code>0087614119120</ean_code>
 <manufacturer_code>SW1912</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -329,7 +329,7 @@
 <product id="118">
 <title><![CDATA[Una De Gato 100 kaps. (Swanson, JAV)]]></title>
 <price>11.95</price>
-<stock>571</stock>
+<stock>570</stock>
 <ean_code>0087614015149</ean_code>
 <manufacturer_code>SW514</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -693,7 +693,7 @@
 <product id="198">
 <title><![CDATA[GABA 500mg 100 kaps. (Swanson, JAV)]]></title>
 <price>8.97</price>
-<stock>464</stock>
+<stock>462</stock>
 <ean_code>0087614018720</ean_code>
 <manufacturer_code>SW872</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -706,7 +706,7 @@
 <product id="199">
 <title><![CDATA[5-HTP Geram Miegui 500mg 60 Veg. kaps. (Swanson, JAV)]]></title>
 <price>5.95</price>
-<stock>2199</stock>
+<stock>2198</stock>
 <ean_code>0087614211121</ean_code>
 <manufacturer_code>SWU1112</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -719,7 +719,7 @@
 <product id="205">
 <title><![CDATA[Jonažolė 375mg 60 kaps. (Swanson, JAV)]]></title>
 <price>10.45</price>
-<stock>471</stock>
+<stock>470</stock>
 <ean_code>0087614113524</ean_code>
 <manufacturer_code>SW1352</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -771,7 +771,7 @@
 <product id="214">
 <title><![CDATA[Natūralus Liuteinas 20mg & Zeaksantinas 2mg 60 kaps. (Swanson, JAV)]]></title>
 <price>14.87</price>
-<stock>505</stock>
+<stock>504</stock>
 <ean_code>0087614029863</ean_code>
 <manufacturer_code>SWU986</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -927,7 +927,7 @@
 <product id="240">
 <title><![CDATA[Kordicepsas 600mg 120 kaps. (Swanson, JAV)]]></title>
 <price>12.48</price>
-<stock>405</stock>
+<stock>404</stock>
 <ean_code>0087614117164</ean_code>
 <manufacturer_code>SW1716</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
