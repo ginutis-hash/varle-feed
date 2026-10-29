@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> kaina24.lt feed, generated 2026-10-28 18:57 UTC -->
+<!-- citrina.eu -> kaina24.lt feed, generated 2026-10-29 01:05 UTC -->
 <products>
 <product id="36">
 <title><![CDATA[Black Cohosh 540mg 60 kaps. (Swanson, JAV)]]></title>
@@ -225,7 +225,7 @@
 <product id="79">
 <title><![CDATA[Enzimai 90 kaps. (Swanson, JAV)]]></title>
 <price>15.95</price>
-<stock>374</stock>
+<stock>373</stock>
 <ean_code>0087614025025</ean_code>
 <manufacturer_code>SWU502</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -927,7 +927,7 @@
 <product id="240">
 <title><![CDATA[Kordicepsas 600mg 120 kaps. (Swanson, JAV)]]></title>
 <price>12.48</price>
-<stock>406</stock>
+<stock>405</stock>
 <ean_code>0087614117164</ean_code>
 <manufacturer_code>SW1716</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1083,7 +1083,7 @@
 <product id="287">
 <title><![CDATA[Vitaminas D3 5000tv su Linų Sėmenų Aliejumi 250 kaps. (Swanson, JAV)]]></title>
 <price>9.47</price>
-<stock>177</stock>
+<stock>176</stock>
 <ean_code>0087614113715</ean_code>
 <manufacturer_code>SW1371</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1200,7 +1200,7 @@
 <product id="361">
 <title><![CDATA[Lion's Mane 500MG 60 KAPS. (SWANSON, JAV)]]></title>
 <price>11.47</price>
-<stock>434</stock>
+<stock>433</stock>
 <ean_code>0087614110967</ean_code>
 <manufacturer_code>SW1096</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1226,7 +1226,7 @@
 <product id="376">
 <title><![CDATA[Omega 3 1000 Mg Citrinų Skonio Žuvų Taukai 60 Kaps.]]></title>
 <price>4.95</price>
-<stock>742</stock>
+<stock>740</stock>
 <ean_code>0087614117836</ean_code>
 <manufacturer_code>SW1783</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1343,7 +1343,7 @@
 <product id="489">
 <title><![CDATA[Kofermentas Q10 100 mg 100 kaps. (Swanson, JAV)]]></title>
 <price>19.95</price>
-<stock>776</stock>
+<stock>774</stock>
 <ean_code>0087614025612</ean_code>
 <manufacturer_code>SWU561</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
