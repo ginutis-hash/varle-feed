@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> kaina24.lt feed, generated 2026-10-29 07:05 UTC -->
+<!-- citrina.eu -> kaina24.lt feed, generated 2026-10-29 13:06 UTC -->
 <products>
 <product id="36">
 <title><![CDATA[Black Cohosh 540mg 60 kaps. (Swanson, JAV)]]></title>
@@ -368,7 +368,7 @@
 <product id="123">
 <title><![CDATA[Ženšenis (Ginseng) 500mg 100 kaps. (Swanson, JAV)]]></title>
 <price>13.75</price>
-<stock>464</stock>
+<stock>462</stock>
 <ean_code>0087614019697</ean_code>
 <manufacturer_code>SW969</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -602,7 +602,7 @@
 <product id="180">
 <title><![CDATA[Biotinas 5000mcg 100 kaps. (Swanson, JAV)]]></title>
 <price>6.98</price>
-<stock>386</stock>
+<stock>385</stock>
 <ean_code>0087614018775</ean_code>
 <manufacturer_code>SW877</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -654,7 +654,7 @@
 <product id="186">
 <title><![CDATA[Hialuronas & Kolagenas 60 kaps. (Swanson, JAV)]]></title>
 <price>14.46</price>
-<stock>373</stock>
+<stock>372</stock>
 <ean_code>0087614028613</ean_code>
 <manufacturer_code>SWU861</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1057,7 +1057,7 @@
 <product id="268">
 <title><![CDATA[Vitaminų B Kompleksas 100 kaps. (Swanson, JAV)]]></title>
 <price>10.48</price>
-<stock>1224</stock>
+<stock>1223</stock>
 <ean_code>0087614010571</ean_code>
 <manufacturer_code>SW057</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1252,7 +1252,7 @@
 <product id="425">
 <title><![CDATA[Vitaminas C su Erškėtuogėmis 1000mg 90 kaps. (Swanson, JAV)]]></title>
 <price>10.92</price>
-<stock>673</stock>
+<stock>672</stock>
 <ean_code>0087614110547</ean_code>
 <manufacturer_code>SW1054</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1343,7 +1343,7 @@
 <product id="489">
 <title><![CDATA[Kofermentas Q10 100 mg 100 kaps. (Swanson, JAV)]]></title>
 <price>19.95</price>
-<stock>774</stock>
+<stock>773</stock>
 <ean_code>0087614025612</ean_code>
 <manufacturer_code>SWU561</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1651,5 +1651,18 @@
 <purchase_url><![CDATA[https://www.citrina.eu/gymnema-400-mg-100-veg-kaps-swanson-jav]]></purchase_url>
 <category_name><![CDATA[Grožiui ir lieknėjimui]]></category_name>
 <category_id><![CDATA[1738]]></category_id>
+</product>
+<product id="626">
+<title><![CDATA[Kofermentas Q10 Ubichinolis 50 mg 60 kaps. (Swanson, JAV)]]></title>
+<price>29.95</price>
+<stock>100</stock>
+<ean_code>0087614023939</ean_code>
+<manufacturer_code>SWU393</manufacturer_code>
+<manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
+<image_url><![CDATA[https://www.citrina.eu/images/uploader/ko/kofermentas-q10-ubichinolis-50-mg-60-kaps-swanson-jav-1.jpg]]></image_url>
+<product_url><![CDATA[https://www.citrina.eu/kofermentas-q10-ubichinolis-50-mg-60-kaps-swanson]]></product_url>
+<purchase_url><![CDATA[https://www.citrina.eu/kofermentas-q10-ubichinolis-50-mg-60-kaps-swanson]]></purchase_url>
+<category_name><![CDATA[Širdžiai, kraujotakai, atminčiai]]></category_name>
+<category_id><![CDATA[1739]]></category_id>
 </product>
 </products>
