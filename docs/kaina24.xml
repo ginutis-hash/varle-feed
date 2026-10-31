@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> kaina24.lt feed, generated 2026-10-31 06:59 UTC -->
+<!-- citrina.eu -> kaina24.lt feed, generated 2026-10-31 12:56 UTC -->
 <products>
 <product id="36">
 <title><![CDATA[Black Cohosh 540mg 60 kaps. (Swanson, JAV)]]></title>
@@ -667,7 +667,7 @@
 <product id="192">
 <title><![CDATA[Vitaminas E Natūralus 200tv 100 kaps. (Swanson, JAV)]]></title>
 <price>9.95</price>
-<stock>436</stock>
+<stock>435</stock>
 <ean_code>0087614011363</ean_code>
 <manufacturer_code>SW136</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -797,7 +797,7 @@
 <product id="216">
 <title><![CDATA[Melatoninas (JAV) 120 kaps. (Swanson, JAV)]]></title>
 <price>6.97</price>
-<stock>249</stock>
+<stock>248</stock>
 <ean_code>0087614015422</ean_code>
 <manufacturer_code>SW542</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1005,7 +1005,7 @@
 <product id="252">
 <title><![CDATA[Pieno Rūgšties Bakterijos (PROBIOTIKAI-16) 60 kaps. (Swanson, JAV)]]></title>
 <price>10.78</price>
-<stock>2061</stock>
+<stock>2060</stock>
 <ean_code>0087614190518</ean_code>
 <manufacturer_code>SWA051</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1525,7 +1525,7 @@
 <product id="609">
 <title><![CDATA[Magnio Tauratas 100 Mg 120 Veg. Tab. (Swanson, JAV)]]></title>
 <price>18.95</price>
-<stock>2</stock>
+<stock>1</stock>
 <ean_code>0087614113647</ean_code>
 <manufacturer_code>SW1364</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1664,5 +1664,18 @@
 <purchase_url><![CDATA[https://www.citrina.eu/kofermentas-q10-ubichinolis-50-mg-60-kaps-swanson]]></purchase_url>
 <category_name><![CDATA[Širdžiai, kraujotakai, atminčiai]]></category_name>
 <category_id><![CDATA[1739]]></category_id>
+</product>
+<product id="627">
+<title><![CDATA[Moliūgų sėklų aliejus 1000 mg 100 kaps. (Swanson, JAV)]]></title>
+<price>14.95</price>
+<stock>200</stock>
+<ean_code>0087614013640</ean_code>
+<manufacturer_code>SW364</manufacturer_code>
+<manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
+<image_url><![CDATA[https://www.citrina.eu/images/uploader/mo/moliugu-seklu-aliejus-1000-mg-100-kaps-swanson-jav-1.jpg]]></image_url>
+<product_url><![CDATA[https://www.citrina.eu/moliugu-seklu-aliejus-1000-mg-100-kaps-swanson]]></product_url>
+<purchase_url><![CDATA[https://www.citrina.eu/moliugu-seklu-aliejus-1000-mg-100-kaps-swanson]]></purchase_url>
+<category_name><![CDATA[Vyrų sveikata]]></category_name>
+<category_id><![CDATA[1745]]></category_id>
 </product>
 </products>
