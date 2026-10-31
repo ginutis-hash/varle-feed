@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> kaina24.lt feed, generated 2026-10-31 12:56 UTC -->
+<!-- citrina.eu -> kaina24.lt feed, generated 2026-10-31 18:52 UTC -->
 <products>
 <product id="36">
 <title><![CDATA[Black Cohosh 540mg 60 kaps. (Swanson, JAV)]]></title>
@@ -602,7 +602,7 @@
 <product id="180">
 <title><![CDATA[Biotinas 5000mcg 100 kaps. (Swanson, JAV)]]></title>
 <price>6.98</price>
-<stock>385</stock>
+<stock>383</stock>
 <ean_code>0087614018775</ean_code>
 <manufacturer_code>SW877</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -706,7 +706,7 @@
 <product id="199">
 <title><![CDATA[5-HTP Geram Miegui 500mg 60 Veg. kaps. (Swanson, JAV)]]></title>
 <price>5.95</price>
-<stock>2198</stock>
+<stock>2197</stock>
 <ean_code>0087614211121</ean_code>
 <manufacturer_code>SWU1112</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1018,7 +1018,7 @@
 <product id="257">
 <title><![CDATA[Selenas 100 mcg 200 kaps. (Swanson, JAV)]]></title>
 <price>8.14</price>
-<stock>318</stock>
+<stock>317</stock>
 <ean_code>0087614012353</ean_code>
 <manufacturer_code>SW235</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
