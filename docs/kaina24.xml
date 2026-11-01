@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> kaina24.lt feed, generated 2026-11-01 07:07 UTC -->
+<!-- citrina.eu -> kaina24.lt feed, generated 2026-11-01 12:57 UTC -->
 <products>
 <product id="36">
 <title><![CDATA[Black Cohosh 540mg 60 kaps. (Swanson, JAV)]]></title>
@@ -238,7 +238,7 @@
 <product id="81">
 <title><![CDATA[Gliukomananas 700 mg 90 kaps]]></title>
 <price>13.45</price>
-<stock>490</stock>
+<stock>488</stock>
 <ean_code>0087614117430</ean_code>
 <manufacturer_code>SW1743</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1677,5 +1677,44 @@
 <purchase_url><![CDATA[https://www.citrina.eu/moliugu-seklu-aliejus-1000-mg-100-kaps-swanson]]></purchase_url>
 <category_name><![CDATA[Vyrų sveikata]]></category_name>
 <category_id><![CDATA[1745]]></category_id>
+</product>
+<product id="629">
+<title><![CDATA[Glicinas 500 mg 60 veg. kaps. (Swanson, JAV)]]></title>
+<price>7.95</price>
+<stock>100</stock>
+<ean_code>0087614025094</ean_code>
+<manufacturer_code>SWU509</manufacturer_code>
+<manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
+<image_url><![CDATA[https://www.citrina.eu/images/uploader/gl/glicinas-500-mg-60-veg-kaps-swanson-jav-1.jpg]]></image_url>
+<product_url><![CDATA[https://www.citrina.eu/glicinas-500-mg-60-veg-kaps-swanson]]></product_url>
+<purchase_url><![CDATA[https://www.citrina.eu/glicinas-500-mg-60-veg-kaps-swanson]]></purchase_url>
+<category_name><![CDATA[Nervų sistemai, akims]]></category_name>
+<category_id><![CDATA[1737]]></category_id>
+</product>
+<product id="630">
+<title><![CDATA[Moringa 400 mg 60 kaps. (Swanson, JAV)]]></title>
+<price>6.95</price>
+<stock>100</stock>
+<ean_code>0087614113906</ean_code>
+<manufacturer_code>SW1390</manufacturer_code>
+<manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
+<image_url><![CDATA[https://www.citrina.eu/images/uploader/mo/moringa-400-mg-60-kaps-swanson-jav-1.jpg]]></image_url>
+<product_url><![CDATA[https://www.citrina.eu/moringa-400-mg-60-kaps-swanson]]></product_url>
+<purchase_url><![CDATA[https://www.citrina.eu/moringa-400-mg-60-kaps-swanson]]></purchase_url>
+<category_name><![CDATA[Imunitetui stiprinti]]></category_name>
+<category_id><![CDATA[1735]]></category_id>
+</product>
+<product id="631">
+<title><![CDATA[Spearmint (Šaltmėtės lapai) 400 mg 60 kaps. (Swanson, JAV)]]></title>
+<price>8.95</price>
+<stock>100</stock>
+<ean_code>0087614112619</ean_code>
+<manufacturer_code>SW1261</manufacturer_code>
+<manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
+<image_url><![CDATA[https://www.citrina.eu/images/uploader/sp/spearmint-saltmetes-lapai-400-mg-60-kaps-swanson-jav-1.jpg]]></image_url>
+<product_url><![CDATA[https://www.citrina.eu/spearmint-saltmetes-lapai-400-mg-60-kaps-swanson]]></product_url>
+<purchase_url><![CDATA[https://www.citrina.eu/spearmint-saltmetes-lapai-400-mg-60-kaps-swanson]]></purchase_url>
+<category_name><![CDATA[Moterų sveikata]]></category_name>
+<category_id><![CDATA[1746]]></category_id>
 </product>
 </products>

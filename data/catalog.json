@@ -1094,5 +1094,29 @@
 "cat_name": "Sportui",
 "manufacturer": "Swanson Health Products Inc., JAV",
 "url": "https://www.citrina.eu/mct-aliejus-1000-mg-90-kaps-swanson"
+},
+"629": {
+"ean": "0087614025094",
+"code": "SWU509",
+"cat_id": "1737",
+"cat_name": "Nervų sistemai, akims",
+"manufacturer": "Swanson Health Products Inc., JAV",
+"url": "https://www.citrina.eu/glicinas-500-mg-60-veg-kaps-swanson"
+},
+"630": {
+"ean": "0087614113906",
+"code": "SW1390",
+"cat_id": "1735",
+"cat_name": "Imunitetui stiprinti",
+"manufacturer": "Swanson Health Products Inc., JAV",
+"url": "https://www.citrina.eu/moringa-400-mg-60-kaps-swanson"
+},
+"631": {
+"ean": "0087614112619",
+"code": "SW1261",
+"cat_id": "1746",
+"cat_name": "Moterų sveikata",
+"manufacturer": "Swanson Health Products Inc., JAV",
+"url": "https://www.citrina.eu/spearmint-saltmetes-lapai-400-mg-60-kaps-swanson"
 }
 }
