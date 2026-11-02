@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> kaina24.lt feed, generated 2026-11-02 07:35 UTC -->
+<!-- citrina.eu -> kaina24.lt feed, generated 2026-11-02 13:17 UTC -->
 <products>
 <product id="36">
 <title><![CDATA[Black Cohosh 540mg 60 kaps. (Swanson, JAV)]]></title>
@@ -602,7 +602,7 @@
 <product id="180">
 <title><![CDATA[Biotinas 5000mcg 100 kaps. (Swanson, JAV)]]></title>
 <price>6.98</price>
-<stock>383</stock>
+<stock>382</stock>
 <ean_code>0087614018775</ean_code>
 <manufacturer_code>SW877</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1096,7 +1096,7 @@
 <product id="289">
 <title><![CDATA[Vitaminas B12 100 kaps. (Swanson, JAV)]]></title>
 <price>5.98</price>
-<stock>325</stock>
+<stock>324</stock>
 <ean_code>0087614010304</ean_code>
 <manufacturer_code>SW030</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1668,7 +1668,7 @@
 <product id="627">
 <title><![CDATA[Moliūgų sėklų aliejus 1000 mg 100 kaps. (Swanson, JAV)]]></title>
 <price>14.95</price>
-<stock>199</stock>
+<stock>197</stock>
 <ean_code>0087614013640</ean_code>
 <manufacturer_code>SW364</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
