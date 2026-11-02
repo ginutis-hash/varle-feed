@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> kaina24.lt feed, generated 2026-11-01 18:52 UTC -->
+<!-- citrina.eu -> kaina24.lt feed, generated 2026-11-02 01:14 UTC -->
 <products>
 <product id="36">
 <title><![CDATA[Black Cohosh 540mg 60 kaps. (Swanson, JAV)]]></title>
@@ -95,7 +95,7 @@
 <product id="52">
 <title><![CDATA[Saw Palmetto 540mg 100 kaps. (Swanson, JAV)]]></title>
 <price>8.34</price>
-<stock>385</stock>
+<stock>383</stock>
 <ean_code>0087614019093</ean_code>
 <manufacturer_code>SW909</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1434,7 +1434,7 @@
 <product id="499">
 <title><![CDATA[Rhodiola (Auksinė Šaknis) Ekstraktas 60 kaps. (Swanson, JAV)]]></title>
 <price>18.95</price>
-<stock>483</stock>
+<stock>482</stock>
 <ean_code>0087614142883</ean_code>
 <manufacturer_code>SWH288</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
