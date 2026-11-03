@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> kaina24.lt feed, generated 2026-11-03 13:12 UTC -->
+<!-- citrina.eu -> kaina24.lt feed, generated 2026-11-03 19:01 UTC -->
 <products>
 <product id="36">
 <title><![CDATA[Black Cohosh 540mg 60 kaps. (Swanson, JAV)]]></title>
@@ -121,7 +121,7 @@
 <product id="59">
 <title><![CDATA[Super Multivitaminų ir Mineralų be Geležies Kompleksas 130 tab. (Swanson, JAV)]]></title>
 <price>5.95</price>
-<stock>412</stock>
+<stock>410</stock>
 <ean_code>0087614018324</ean_code>
 <manufacturer_code>SW832</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -186,7 +186,7 @@
 <product id="75">
 <title><![CDATA[Ryklių Kremzlės 750 mg 250 kaps. (Swanson, JAV)]]></title>
 <price>25.95</price>
-<stock>991</stock>
+<stock>989</stock>
 <ean_code>0087614016597</ean_code>
 <manufacturer_code>SW659</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -563,7 +563,7 @@
 <product id="163">
 <title><![CDATA[Resveratrolis 250 mg 30 kaps. (Swanson, JAV)]]></title>
 <price>11.87</price>
-<stock>1720</stock>
+<stock>1719</stock>
 <ean_code>0087614025308</ean_code>
 <manufacturer_code>SWU530</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -901,7 +901,7 @@
 <product id="238">
 <title><![CDATA[Kofermentas Q10 200 mg 30 kaps. (Swanson, JAV)]]></title>
 <price>14.06</price>
-<stock>2186</stock>
+<stock>2185</stock>
 <ean_code>0087614020341</ean_code>
 <manufacturer_code>SWU034</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
