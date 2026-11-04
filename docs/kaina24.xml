@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> kaina24.lt feed, generated 2026-11-04 13:14 UTC -->
+<!-- citrina.eu -> kaina24.lt feed, generated 2026-11-04 19:06 UTC -->
 <products>
 <product id="36">
 <title><![CDATA[Black Cohosh 540mg 60 kaps. (Swanson, JAV)]]></title>
@@ -524,7 +524,7 @@
 <product id="154">
 <title><![CDATA[Lecitinas (be GMO) 1200mg 90 kaps. (Swanson, JAV)]]></title>
 <price>9.68</price>
-<stock>200</stock>
+<stock>198</stock>
 <ean_code>0087614114095</ean_code>
 <manufacturer_code>SW1409</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -654,7 +654,7 @@
 <product id="186">
 <title><![CDATA[Hialuronas & Kolagenas 60 kaps. (Swanson, JAV)]]></title>
 <price>14.46</price>
-<stock>372</stock>
+<stock>371</stock>
 <ean_code>0087614028613</ean_code>
 <manufacturer_code>SWU861</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1018,7 +1018,7 @@
 <product id="257">
 <title><![CDATA[Selenas 100 mcg 200 kaps. (Swanson, JAV)]]></title>
 <price>8.14</price>
-<stock>317</stock>
+<stock>316</stock>
 <ean_code>0087614012353</ean_code>
 <manufacturer_code>SW235</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1083,7 +1083,7 @@
 <product id="287">
 <title><![CDATA[Vitaminas D3 5000tv su Linų Sėmenų Aliejumi 250 kaps. (Swanson, JAV)]]></title>
 <price>9.47</price>
-<stock>174</stock>
+<stock>173</stock>
 <ean_code>0087614113715</ean_code>
 <manufacturer_code>SW1371</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
