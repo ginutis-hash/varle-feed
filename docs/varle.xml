@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> varle.lt feed, generated 2026-11-05 13:21 UTC -->
+<!-- citrina.eu -> varle.lt feed, generated 2026-11-05 19:04 UTC -->
 <root>
   <categories>
     <category>
@@ -457,7 +457,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/su/super-multivitaminu-ir-mineralu-be-gelezies-kompleksas-n130-1.jpg]]></image>
       </images>
-      <quantity>412</quantity>
+      <quantity>411</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614018324</barcode>
       <model><![CDATA[SW832]]></model>
@@ -487,7 +487,6 @@
 	<strong>Gamintojas: </strong>Swanson Health Products Inc., JAV.<br />
 	<strong>Išskirtinis platintojas Lietuvoje:</strong> UAB &bdquo;Grigiškių vaistinė&ldquo;, P. Lukšio g. 3, Vilnius, Lietuva, Tel. 866 25 25 50, www.citrina.eu</p>]]></description>
       <price>15.95</price>
-      <price_old>17.95</price_old>
       <delivery_text>1-3 d. d.</delivery_text>
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/ac/acetil-l-karnitinas-500mg-n100-1.jpg]]></image>
@@ -712,7 +711,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/ci/ciberzole-n100-720-mg-1.jpg]]></image>
       </images>
-      <quantity>596</quantity>
+      <quantity>595</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614019406</barcode>
       <model><![CDATA[SW940]]></model>
@@ -1361,7 +1360,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/al/alfa-lipo-rugstis-100-mg-n120-1.jpg]]></image>
       </images>
-      <quantity>450</quantity>
+      <quantity>449</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614019826</barcode>
       <model><![CDATA[SW982]]></model>
@@ -2677,7 +2676,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/ko/kofermentas-q10-200-mg-n30-2-1.jpg]]></image>
       </images>
-      <quantity>2188</quantity>
+      <quantity>2187</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614020341</barcode>
       <model><![CDATA[SWU034]]></model>
@@ -2932,7 +2931,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/pi/pieno-rugsties-bakterijos-probiotikai-4-n60-1.jpg]]></image>
       </images>
-      <quantity>475</quantity>
+      <quantity>474</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614190037</barcode>
       <model><![CDATA[SWA003]]></model>
@@ -2971,7 +2970,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/pi/pieno-rugsties-bakterijos-probiotikai-16-n60-2.jpg]]></image>
       </images>
-      <quantity>2060</quantity>
+      <quantity>2058</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614190518</barcode>
       <model><![CDATA[SWA051]]></model>
@@ -3669,7 +3668,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/om/omega-3-1000-mg-citrinu-skonio-zuvu-taukai-150-kaps-swanson-jav-1.jpg]]></image>
       </images>
-      <quantity>732</quantity>
+      <quantity>731</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614117836</barcode>
       <model><![CDATA[SW1783]]></model>
@@ -4612,7 +4611,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/tr/trigubas-magnio-kompleksas-400-mg-100-veg-kaps-swanson-jav-kopija-1.jpg]]></image>
       </images>
-      <quantity>500</quantity>
+      <quantity>499</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614113647</barcode>
       <model><![CDATA[SW1364]]></model>
@@ -4961,7 +4960,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/ci/ciberzole-su-pipirais-ekologiski-jav-90-kaps-swanson-jav-kopija-1.jpg]]></image>
       </images>
-      <quantity>1211</quantity>
+      <quantity>1209</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614019833</barcode>
       <model><![CDATA[SW983]]></model>
