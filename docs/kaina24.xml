@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> kaina24.lt feed, generated 2026-11-06 07:25 UTC -->
+<!-- citrina.eu -> kaina24.lt feed, generated 2026-11-06 13:14 UTC -->
 <products>
 <product id="36">
 <title><![CDATA[Black Cohosh 540mg 60 kaps. (Swanson, JAV)]]></title>
@@ -121,7 +121,7 @@
 <product id="59">
 <title><![CDATA[Super Multivitaminų ir Mineralų be Geležies Kompleksas 130 tab. (Swanson, JAV)]]></title>
 <price>5.95</price>
-<stock>411</stock>
+<stock>410</stock>
 <ean_code>0087614018324</ean_code>
 <manufacturer_code>SW832</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -485,7 +485,7 @@
 <product id="142">
 <title><![CDATA[Ginkgo Biloba Standartizuota 60mg 120 kaps. (Swanson, JAV)]]></title>
 <price>9.95</price>
-<stock>371</stock>
+<stock>367</stock>
 <ean_code>0087614018928</ean_code>
 <manufacturer_code>SW892</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -966,7 +966,7 @@
 <product id="247">
 <title><![CDATA[Maitake, Reishi, Shiitake 60 kaps. (Swanson, JAV)]]></title>
 <price>9.95</price>
-<stock>440</stock>
+<stock>439</stock>
 <ean_code>0087614113869</ean_code>
 <manufacturer_code>SW1386</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1005,7 +1005,7 @@
 <product id="252">
 <title><![CDATA[Pieno Rūgšties Bakterijos (PROBIOTIKAI-16) 60 kaps. (Swanson, JAV)]]></title>
 <price>10.78</price>
-<stock>2058</stock>
+<stock>2056</stock>
 <ean_code>0087614190518</ean_code>
 <manufacturer_code>SWA051</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
