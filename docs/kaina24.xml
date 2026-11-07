@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> kaina24.lt feed, generated 2026-11-07 01:08 UTC -->
+<!-- citrina.eu -> kaina24.lt feed, generated 2026-11-07 07:08 UTC -->
 <products>
 <product id="36">
 <title><![CDATA[Black Cohosh 540mg 60 kaps. (Swanson, JAV)]]></title>
@@ -56,7 +56,7 @@
 <product id="47">
 <title><![CDATA[Spanguolių Koncentratas su Vitaminais C ir E 60 kaps.]]></title>
 <price>5.95</price>
-<stock>148</stock>
+<stock>146</stock>
 <ean_code>0087614022598</ean_code>
 <manufacturer_code>SWU259</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -849,7 +849,7 @@
 <product id="232">
 <title><![CDATA[Cinkas 30 mg 250 tab. (Swanson, JAV)]]></title>
 <price>9.85</price>
-<stock>430</stock>
+<stock>429</stock>
 <ean_code>0087614012032</ean_code>
 <manufacturer_code>SW203</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>

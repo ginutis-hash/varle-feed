@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> varle.lt feed, generated 2026-11-07 01:08 UTC -->
+<!-- citrina.eu -> varle.lt feed, generated 2026-11-07 07:08 UTC -->
 <root>
   <categories>
     <category>
@@ -240,7 +240,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/sp/spanguoliu-koncentratas-su-vitce-420mg-n60-1.jpg]]></image>
       </images>
-      <quantity>148</quantity>
+      <quantity>146</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614022598</barcode>
       <model><![CDATA[SWU259]]></model>
@@ -2537,7 +2537,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/ci/cinkas-30-mg-n250-1.jpg]]></image>
       </images>
-      <quantity>430</quantity>
+      <quantity>429</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614012032</barcode>
       <model><![CDATA[SW203]]></model>
