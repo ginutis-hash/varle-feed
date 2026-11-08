@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> kaina24.lt feed, generated 2026-11-08 07:10 UTC -->
+<!-- citrina.eu -> kaina24.lt feed, generated 2026-11-08 12:59 UTC -->
 <products>
 <product id="36">
 <title><![CDATA[Black Cohosh 540mg 60 kaps. (Swanson, JAV)]]></title>
@@ -1716,5 +1716,18 @@
 <purchase_url><![CDATA[https://www.citrina.eu/spearmint-saltmetes-lapai-400-mg-60-kaps-swanson]]></purchase_url>
 <category_name><![CDATA[Moterų sveikata]]></category_name>
 <category_id><![CDATA[1746]]></category_id>
+</product>
+<product id="632">
+<title><![CDATA[Rhodiola (Auksinė šaknis) 400 mg 100 veg. kaps. (Swanson, JAV)]]></title>
+<price>17.95</price>
+<stock>100</stock>
+<ean_code>0087614110042</ean_code>
+<manufacturer_code>SW1004</manufacturer_code>
+<manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
+<image_url><![CDATA[https://www.citrina.eu/images/uploader/rh/rhodiola-auksine-saknis-400-mg-100-veg-kaps-1.jpg]]></image_url>
+<product_url><![CDATA[https://www.citrina.eu/rhodiola-auksine-saknis-400-mg-100-veg-kaps-swanson]]></product_url>
+<purchase_url><![CDATA[https://www.citrina.eu/rhodiola-auksine-saknis-400-mg-100-veg-kaps-swanson]]></purchase_url>
+<category_name><![CDATA[Nervų sistemai, akims]]></category_name>
+<category_id><![CDATA[1737]]></category_id>
 </product>
 </products>
