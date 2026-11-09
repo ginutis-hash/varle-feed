@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> kaina24.lt feed, generated 2026-11-09 07:36 UTC -->
+<!-- citrina.eu -> kaina24.lt feed, generated 2026-11-09 13:23 UTC -->
 <products>
 <product id="36">
 <title><![CDATA[Black Cohosh 540mg 60 kaps. (Swanson, JAV)]]></title>
@@ -95,7 +95,7 @@
 <product id="52">
 <title><![CDATA[Saw Palmetto 540mg 100 kaps. (Swanson, JAV)]]></title>
 <price>8.34</price>
-<stock>385</stock>
+<stock>384</stock>
 <ean_code>0087614019093</ean_code>
 <manufacturer_code>SW909</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -160,7 +160,7 @@
 <product id="65">
 <title><![CDATA[Tribulus 2000 Ekstraktas 120 kaps. (Swanson, JAV)]]></title>
 <price>5.95</price>
-<stock>223</stock>
+<stock>222</stock>
 <ean_code>0087614080031</ean_code>
 <manufacturer_code>SWP003</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -784,7 +784,7 @@
 <product id="215">
 <title><![CDATA[Magnis 250 kaps. (Swanson, JAV)]]></title>
 <price>10.48</price>
-<stock>430</stock>
+<stock>428</stock>
 <ean_code>0087614011967</ean_code>
 <manufacturer_code>SW196</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -901,7 +901,7 @@
 <product id="238">
 <title><![CDATA[Kofermentas Q10 200 mg 30 kaps. (Swanson, JAV)]]></title>
 <price>14.06</price>
-<stock>2187</stock>
+<stock>2186</stock>
 <ean_code>0087614020341</ean_code>
 <manufacturer_code>SWU034</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1005,7 +1005,7 @@
 <product id="252">
 <title><![CDATA[Pieno Rūgšties Bakterijos (PROBIOTIKAI-16) 60 kaps. (Swanson, JAV)]]></title>
 <price>10.78</price>
-<stock>2056</stock>
+<stock>2055</stock>
 <ean_code>0087614190518</ean_code>
 <manufacturer_code>SWA051</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1083,7 +1083,7 @@
 <product id="287">
 <title><![CDATA[Vitaminas D3 5000tv su Linų Sėmenų Aliejumi 250 kaps. (Swanson, JAV)]]></title>
 <price>9.47</price>
-<stock>173</stock>
+<stock>171</stock>
 <ean_code>0087614113715</ean_code>
 <manufacturer_code>SW1371</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1226,7 +1226,7 @@
 <product id="376">
 <title><![CDATA[Omega 3 1000 Mg Citrinų Skonio Žuvų Taukai 60 Kaps.]]></title>
 <price>4.95</price>
-<stock>731</stock>
+<stock>728</stock>
 <ean_code>0087614117836</ean_code>
 <manufacturer_code>SW1783</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1525,7 +1525,7 @@
 <product id="609">
 <title><![CDATA[Magnio Tauratas 100 Mg 120 Veg. Tab. (Swanson, JAV)]]></title>
 <price>18.95</price>
-<stock>499</stock>
+<stock>498</stock>
 <ean_code>0087614113647</ean_code>
 <manufacturer_code>SW1364</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
