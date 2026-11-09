@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> kaina24.lt feed, generated 2026-11-09 13:23 UTC -->
+<!-- citrina.eu -> kaina24.lt feed, generated 2026-11-09 19:03 UTC -->
 <products>
 <product id="36">
 <title><![CDATA[Black Cohosh 540mg 60 kaps. (Swanson, JAV)]]></title>
@@ -121,7 +121,7 @@
 <product id="59">
 <title><![CDATA[Super Multivitaminų ir Mineralų be Geležies Kompleksas 130 tab. (Swanson, JAV)]]></title>
 <price>5.95</price>
-<stock>410</stock>
+<stock>409</stock>
 <ean_code>0087614018324</ean_code>
 <manufacturer_code>SW832</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -160,7 +160,7 @@
 <product id="65">
 <title><![CDATA[Tribulus 2000 Ekstraktas 120 kaps. (Swanson, JAV)]]></title>
 <price>5.95</price>
-<stock>222</stock>
+<stock>221</stock>
 <ean_code>0087614080031</ean_code>
 <manufacturer_code>SWP003</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -342,7 +342,7 @@
 <product id="121">
 <title><![CDATA[Vynuogių Sėklų, Žaliosios Arbatos ir Pušies Žievės Kompleksas 60 kaps. (Swanson, JAV)]]></title>
 <price>6.31</price>
-<stock>482</stock>
+<stock>481</stock>
 <ean_code>0087614110240</ean_code>
 <manufacturer_code>SW1024</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -368,7 +368,7 @@
 <product id="123">
 <title><![CDATA[Ženšenis (Ginseng) 500mg 100 kaps. (Swanson, JAV)]]></title>
 <price>13.75</price>
-<stock>462</stock>
+<stock>461</stock>
 <ean_code>0087614019697</ean_code>
 <manufacturer_code>SW969</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -654,7 +654,7 @@
 <product id="186">
 <title><![CDATA[Hialuronas & Kolagenas 60 kaps. (Swanson, JAV)]]></title>
 <price>14.46</price>
-<stock>371</stock>
+<stock>370</stock>
 <ean_code>0087614028613</ean_code>
 <manufacturer_code>SWU861</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -706,7 +706,7 @@
 <product id="199">
 <title><![CDATA[5-HTP Geram Miegui 500mg 60 Veg. kaps. (Swanson, JAV)]]></title>
 <price>5.95</price>
-<stock>2186</stock>
+<stock>2185</stock>
 <ean_code>0087614211121</ean_code>
 <manufacturer_code>SWU1112</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1057,7 +1057,7 @@
 <product id="268">
 <title><![CDATA[Vitaminų B Kompleksas 100 kaps. (Swanson, JAV)]]></title>
 <price>10.48</price>
-<stock>1223</stock>
+<stock>1222</stock>
 <ean_code>0087614010571</ean_code>
 <manufacturer_code>SW057</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1096,7 +1096,7 @@
 <product id="289">
 <title><![CDATA[Vitaminas B12 100 kaps. (Swanson, JAV)]]></title>
 <price>5.98</price>
-<stock>325</stock>
+<stock>323</stock>
 <ean_code>0087614010304</ean_code>
 <manufacturer_code>SW030</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1226,7 +1226,7 @@
 <product id="376">
 <title><![CDATA[Omega 3 1000 Mg Citrinų Skonio Žuvų Taukai 60 Kaps.]]></title>
 <price>4.95</price>
-<stock>728</stock>
+<stock>725</stock>
 <ean_code>0087614117836</ean_code>
 <manufacturer_code>SW1783</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1278,7 +1278,7 @@
 <product id="454">
 <title><![CDATA[L-argininas 500 mg 200 kaps. (Swanson, JAV)]]></title>
 <price>16.95</price>
-<stock>100</stock>
+<stock>97</stock>
 <ean_code>0087614019352</ean_code>
 <manufacturer_code>SW935</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1343,7 +1343,7 @@
 <product id="489">
 <title><![CDATA[Kofermentas Q10 100 mg 100 kaps. (Swanson, JAV)]]></title>
 <price>19.95</price>
-<stock>773</stock>
+<stock>771</stock>
 <ean_code>0087614025612</ean_code>
 <manufacturer_code>SWU561</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
