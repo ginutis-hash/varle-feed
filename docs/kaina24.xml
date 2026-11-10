@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> kaina24.lt feed, generated 2026-11-10 07:19 UTC -->
+<!-- citrina.eu -> kaina24.lt feed, generated 2026-11-10 13:12 UTC -->
 <products>
 <product id="36">
 <title><![CDATA[Black Cohosh 540mg 60 kaps. (Swanson, JAV)]]></title>
@@ -420,7 +420,7 @@
 <product id="131">
 <title><![CDATA[Vitaminas D3 1000tv 250 kaps. (Swanson, JAV)]]></title>
 <price>10.47</price>
-<stock>429</stock>
+<stock>427</stock>
 <ean_code>0087614110301</ean_code>
 <manufacturer_code>SW1030</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -563,7 +563,7 @@
 <product id="163">
 <title><![CDATA[Resveratrolis 250 mg 30 kaps. (Swanson, JAV)]]></title>
 <price>11.87</price>
-<stock>1720</stock>
+<stock>1719</stock>
 <ean_code>0087614025308</ean_code>
 <manufacturer_code>SWU530</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -576,7 +576,7 @@
 <product id="171">
 <title><![CDATA[Vitaminas K2 100 mcg (Natūralus) 30 kaps. (Swanson, JAV)]]></title>
 <price>8.95</price>
-<stock>851</stock>
+<stock>849</stock>
 <ean_code>0087614026725</ean_code>
 <manufacturer_code>SWU672</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -589,7 +589,7 @@
 <product id="178">
 <title><![CDATA[Obuolių Sidras (Apple Cider) 120 kaps. (Swanson, JAV)]]></title>
 <price>4.47</price>
-<stock>437</stock>
+<stock>436</stock>
 <ean_code>0087614040363</ean_code>
 <manufacturer_code>SWD036</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -615,7 +615,7 @@
 <product id="181">
 <title><![CDATA[Chromas 200mcg 100 kaps. (Swanson, JAV)]]></title>
 <price>5.47</price>
-<stock>397</stock>
+<stock>396</stock>
 <ean_code>0087614019222</ean_code>
 <manufacturer_code>SW922</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1005,7 +1005,7 @@
 <product id="252">
 <title><![CDATA[Pieno Rūgšties Bakterijos (PROBIOTIKAI-16) 60 kaps. (Swanson, JAV)]]></title>
 <price>10.78</price>
-<stock>2055</stock>
+<stock>2053</stock>
 <ean_code>0087614190518</ean_code>
 <manufacturer_code>SWA051</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1226,7 +1226,7 @@
 <product id="376">
 <title><![CDATA[Omega 3 1000 Mg Citrinų Skonio Žuvų Taukai 60 Kaps.]]></title>
 <price>4.95</price>
-<stock>722</stock>
+<stock>718</stock>
 <ean_code>0087614117836</ean_code>
 <manufacturer_code>SW1783</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
