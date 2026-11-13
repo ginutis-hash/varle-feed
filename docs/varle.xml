@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> varle.lt feed, generated 2026-11-13 07:27 UTC -->
+<!-- citrina.eu -> varle.lt feed, generated 2026-11-13 19:40 UTC -->
 <root>
   <categories>
     <category>
@@ -129,7 +129,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/in/inozitolis-650-mg-n100-1.jpg]]></image>
       </images>
-      <quantity>970</quantity>
+      <quantity>969</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614018744</barcode>
       <model><![CDATA[SW874]]></model>
@@ -1615,7 +1615,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/le/lecitinas-be-gmo-1200mg-n90-1.jpg]]></image>
       </images>
-      <quantity>198</quantity>
+      <quantity>196</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614114095</barcode>
       <model><![CDATA[SW1409]]></model>
@@ -2089,7 +2089,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/ga/gaba-500-mg-n100-1.jpg]]></image>
       </images>
-      <quantity>461</quantity>
+      <quantity>460</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614018720</barcode>
       <model><![CDATA[SW872]]></model>
@@ -2125,7 +2125,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/5_/5-htp-geram-miegui-100mg-60-kaps-swanson-jav-1.jpg]]></image>
       </images>
-      <quantity>2170</quantity>
+      <quantity>2168</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614211121</barcode>
       <model><![CDATA[SWU1112]]></model>
@@ -2533,7 +2533,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/ci/cinkas-30-mg-n250-1.jpg]]></image>
       </images>
-      <quantity>429</quantity>
+      <quantity>427</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614012032</barcode>
       <model><![CDATA[SW203]]></model>
@@ -3096,7 +3096,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/vi/vitaminas-c-su-ersketuogemis-1000-mg-1.jpg]]></image>
       </images>
-      <quantity>441</quantity>
+      <quantity>439</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614112510</barcode>
       <model><![CDATA[SW1251]]></model>
@@ -3236,7 +3236,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/vi/vitaminas-d3-1000tv-n250-kopija-1.png]]></image>
       </images>
-      <quantity>167</quantity>
+      <quantity>166</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614113715</barcode>
       <model><![CDATA[SW1371]]></model>
@@ -3668,7 +3668,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/om/omega-3-1000-mg-citrinu-skonio-zuvu-taukai-150-kaps-swanson-jav-1.jpg]]></image>
       </images>
-      <quantity>705</quantity>
+      <quantity>701</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614117836</barcode>
       <model><![CDATA[SW1783]]></model>
@@ -4491,7 +4491,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/tr/trigubas-magnio-kompleksas-400-mg-100-veg-kaps-swanson-jav-1.jpg]]></image>
       </images>
-      <quantity>489</quantity>
+      <quantity>488</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614018089</barcode>
       <model><![CDATA[SW808]]></model>
@@ -4611,7 +4611,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/tr/trigubas-magnio-kompleksas-400-mg-100-veg-kaps-swanson-jav-kopija-1.jpg]]></image>
       </images>
-      <quantity>496</quantity>
+      <quantity>495</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614113647</barcode>
       <model><![CDATA[SW1364]]></model>
