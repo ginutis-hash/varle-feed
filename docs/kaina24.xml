@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> kaina24.lt feed, generated 2026-11-15 06:29 UTC -->
+<!-- citrina.eu -> kaina24.lt feed, generated 2026-11-15 18:50 UTC -->
 <products>
 <product id="36">
 <title><![CDATA[Black Cohosh 540mg 60 kaps. (Swanson, JAV)]]></title>
@@ -56,7 +56,7 @@
 <product id="47">
 <title><![CDATA[Spanguolių Koncentratas su Vitaminais C ir E 60 kaps.]]></title>
 <price>5.95</price>
-<stock>146</stock>
+<stock>145</stock>
 <ean_code>0087614022598</ean_code>
 <manufacturer_code>SWU259</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -134,7 +134,7 @@
 <product id="62">
 <title><![CDATA[Acetil L-karnitinas 500mg 100 kaps. (Swanson, JAV)]]></title>
 <price>15.95</price>
-<stock>100</stock>
+<stock>99</stock>
 <ean_code>0087614116495</ean_code>
 <manufacturer_code>SW1649</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -394,7 +394,7 @@
 <product id="128">
 <title><![CDATA[MSM 1000mg 120 kaps. (Swanson, JAV)]]></title>
 <price>12.95</price>
-<stock>222</stock>
+<stock>221</stock>
 <ean_code>0087614026558</ean_code>
 <manufacturer_code>SWU655</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -433,7 +433,7 @@
 <product id="133">
 <title><![CDATA[Alfa Lipoinė Rūgštis 100 mg 120 kaps. (Swanson, JAV)]]></title>
 <price>6.95</price>
-<stock>449</stock>
+<stock>448</stock>
 <ean_code>0087614019826</ean_code>
 <manufacturer_code>SW982</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -587,7 +587,7 @@
 <category_id><![CDATA[1739]]></category_id>
 </product>
 <product id="178">
-<title><![CDATA[Obuolių Sidras (Apple Cider) 120 Veg. kaps. (Swanson, JAV)]]></title>
+<title><![CDATA[Obuolių Sidras (Apple Cider) 120 Veg. Tabs. (Swanson, JAV)]]></title>
 <price>4.47</price>
 <stock>436</stock>
 <ean_code>0087614040363</ean_code>
@@ -678,7 +678,7 @@
 <category_id><![CDATA[1738]]></category_id>
 </product>
 <product id="194">
-<title><![CDATA[Water Pills 120 Veg. kaps. (Swanson, JAV)]]></title>
+<title><![CDATA[Water Pills 120 Veg. Tabs. (Swanson, JAV)]]></title>
 <price>8.95</price>
 <stock>494</stock>
 <ean_code>0087614040134</ean_code>
@@ -1200,7 +1200,7 @@
 <product id="361">
 <title><![CDATA[Lion's Mane 500MG 60 KAPS. (SWANSON, JAV)]]></title>
 <price>11.47</price>
-<stock>432</stock>
+<stock>430</stock>
 <ean_code>0087614110967</ean_code>
 <manufacturer_code>SW1096</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1356,7 +1356,7 @@
 <product id="491">
 <title><![CDATA[Alfa Lipoinė Rūgštis 300 mg 60 kaps.]]></title>
 <price>11.95</price>
-<stock>487</stock>
+<stock>486</stock>
 <ean_code>0087614021362</ean_code>
 <manufacturer_code>SWU136</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1681,7 +1681,7 @@
 <product id="629">
 <title><![CDATA[Glicinas 500 mg 60 veg. kaps. (Swanson, JAV)]]></title>
 <price>7.95</price>
-<stock>98</stock>
+<stock>97</stock>
 <ean_code>0087614025094</ean_code>
 <manufacturer_code>SWU509</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
