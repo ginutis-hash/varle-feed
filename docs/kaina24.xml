@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> kaina24.lt feed, generated 2026-11-18 20:29 UTC -->
+<!-- citrina.eu -> kaina24.lt feed, generated 2026-11-19 07:24 UTC -->
 <products>
 <product id="36">
 <title><![CDATA[Black Cohosh 540mg 60 kaps. (Swanson, JAV)]]></title>
@@ -121,7 +121,7 @@
 <product id="59">
 <title><![CDATA[Super Multivitaminų ir Mineralų be Geležies Kompleksas 130 tab. (Swanson, JAV)]]></title>
 <price>5.95</price>
-<stock>403</stock>
+<stock>402</stock>
 <ean_code>0087614018324</ean_code>
 <manufacturer_code>SW832</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -420,7 +420,7 @@
 <product id="131">
 <title><![CDATA[Vitaminas D3 1000tv 250 kaps. (Swanson, JAV)]]></title>
 <price>10.47</price>
-<stock>427</stock>
+<stock>426</stock>
 <ean_code>0087614110301</ean_code>
 <manufacturer_code>SW1030</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -706,7 +706,7 @@
 <product id="199">
 <title><![CDATA[5-HTP Geram Miegui 500mg 60 Veg. kaps. (Swanson, JAV)]]></title>
 <price>5.95</price>
-<stock>2162</stock>
+<stock>2161</stock>
 <ean_code>0087614211121</ean_code>
 <manufacturer_code>SWU1112</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -849,7 +849,7 @@
 <product id="232">
 <title><![CDATA[Cinkas 30 mg 250 Veg. tab. (Swanson, JAV)]]></title>
 <price>9.85</price>
-<stock>427</stock>
+<stock>426</stock>
 <ean_code>0087614012032</ean_code>
 <manufacturer_code>SW203</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1265,7 +1265,7 @@
 <product id="448">
 <title><![CDATA[Super Multivitaminų ir Mineralų Kompleksas 130 Veg. tab. (Swanson, JAV)]]></title>
 <price>14.95</price>
-<stock>459</stock>
+<stock>458</stock>
 <ean_code>0087614012506</ean_code>
 <manufacturer_code>SW250</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1486,7 +1486,7 @@
 <product id="587">
 <title><![CDATA[Trigubas Magnio Kompleksas 400 Mg 100 Veg. Kaps. (Swanson, JAV)]]></title>
 <price>8.95</price>
-<stock>484</stock>
+<stock>483</stock>
 <ean_code>0087614018089</ean_code>
 <manufacturer_code>SW808</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1655,7 +1655,7 @@
 <product id="626">
 <title><![CDATA[Kofermentas Q10 Ubichinolis 50 mg 60 kaps. (Swanson, JAV)]]></title>
 <price>29.95</price>
-<stock>100</stock>
+<stock>99</stock>
 <ean_code>0087614023939</ean_code>
 <manufacturer_code>SWU393</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
