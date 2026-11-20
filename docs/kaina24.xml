@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> kaina24.lt feed, generated 2026-11-20 07:14 UTC -->
+<!-- citrina.eu -> kaina24.lt feed, generated 2026-11-20 20:17 UTC -->
 <products>
 <product id="36">
 <title><![CDATA[Black Cohosh 540mg 60 kaps. (Swanson, JAV)]]></title>
@@ -160,7 +160,7 @@
 <product id="65">
 <title><![CDATA[Tribulus 2000 Ekstraktas 120 kaps. (Swanson, JAV)]]></title>
 <price>5.95</price>
-<stock>216</stock>
+<stock>215</stock>
 <ean_code>0087614080031</ean_code>
 <manufacturer_code>SWP003</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1005,7 +1005,7 @@
 <product id="252">
 <title><![CDATA[Pieno Rūgšties Bakterijos (PROBIOTIKAI-16) 60 kaps. (Swanson, JAV)]]></title>
 <price>10.78</price>
-<stock>2044</stock>
+<stock>2042</stock>
 <ean_code>0087614190518</ean_code>
 <manufacturer_code>SWA051</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1057,7 +1057,7 @@
 <product id="268">
 <title><![CDATA[Vitaminų B Kompleksas 100 kaps. (Swanson, JAV)]]></title>
 <price>10.48</price>
-<stock>1218</stock>
+<stock>1215</stock>
 <ean_code>0087614010571</ean_code>
 <manufacturer_code>SW057</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1083,7 +1083,7 @@
 <product id="287">
 <title><![CDATA[Vitaminas D3 5000tv su Linų Sėmenų Aliejumi 250 kaps. (Swanson, JAV)]]></title>
 <price>9.47</price>
-<stock>160</stock>
+<stock>159</stock>
 <ean_code>0087614113715</ean_code>
 <manufacturer_code>SW1371</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1356,7 +1356,7 @@
 <product id="491">
 <title><![CDATA[Alfa Lipoinė Rūgštis 300 mg 60 kaps.]]></title>
 <price>11.95</price>
-<stock>485</stock>
+<stock>482</stock>
 <ean_code>0087614021362</ean_code>
 <manufacturer_code>SWU136</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1616,7 +1616,7 @@
 <product id="623">
 <title><![CDATA[Swanson Cinkas (Bisglicinatas) 15 mg 60 kaps. (Swanson, JAV)]]></title>
 <price>8.95</price>
-<stock>254</stock>
+<stock>253</stock>
 <ean_code>0087614210896</ean_code>
 <manufacturer_code>SWU1089</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
