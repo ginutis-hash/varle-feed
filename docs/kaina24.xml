@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> kaina24.lt feed, generated 2026-11-20 20:17 UTC -->
+<!-- citrina.eu -> kaina24.lt feed, generated 2026-11-21 07:05 UTC -->
 <products>
 <product id="36">
 <title><![CDATA[Black Cohosh 540mg 60 kaps. (Swanson, JAV)]]></title>
@@ -706,7 +706,7 @@
 <product id="199">
 <title><![CDATA[5-HTP Geram Miegui 500mg 60 Veg. kaps. (Swanson, JAV)]]></title>
 <price>5.95</price>
-<stock>2160</stock>
+<stock>2159</stock>
 <ean_code>0087614211121</ean_code>
 <manufacturer_code>SWU1112</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -836,7 +836,7 @@
 <product id="231">
 <title><![CDATA[Black Walnut (Juodasis Riešutmedis) 500mg 60 kaps. (Swanson, JAV)]]></title>
 <price>8.37</price>
-<stock>465</stock>
+<stock>464</stock>
 <ean_code>0087614113623</ean_code>
 <manufacturer_code>SW1362</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -849,7 +849,7 @@
 <product id="232">
 <title><![CDATA[Cinkas 30 mg 250 Veg. tab. (Swanson, JAV)]]></title>
 <price>9.85</price>
-<stock>426</stock>
+<stock>425</stock>
 <ean_code>0087614012032</ean_code>
 <manufacturer_code>SW203</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -888,7 +888,7 @@
 <product id="237">
 <title><![CDATA[KELP (NATŪRALUS JODAS) 250 KAPS. (Swanson, JAV)]]></title>
 <price>8.35</price>
-<stock>480</stock>
+<stock>479</stock>
 <ean_code>0087614117454</ean_code>
 <manufacturer_code>SW1745</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1512,7 +1512,7 @@
 <product id="602">
 <title><![CDATA[Ašvaganda (Ashwagandha) 450 mg. 100 Veg. kaps. (Swanson, JAV)]]></title>
 <price>8.95</price>
-<stock>404</stock>
+<stock>403</stock>
 <ean_code>0087614019574</ean_code>
 <manufacturer_code>SW957</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
