@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> varle.lt feed, generated 2026-11-24 22:25 UTC -->
+<!-- citrina.eu -> varle.lt feed, generated 2026-11-25 08:32 UTC -->
 <root>
   <categories>
     <category>
@@ -530,7 +530,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/gl/gliukozaminas-chondroitinas-ir-msm-120-tab-swanson-jav-1.jpg]]></image>
       </images>
-      <quantity>178</quantity>
+      <quantity>177</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614110097</barcode>
       <model><![CDATA[SW1009]]></model>
@@ -1579,7 +1579,7 @@
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/gu/guarana-500mg-100-kaps-swanson-jav-1.jpg]]></image>
       </images>
-      <quantity>458</quantity>
+      <quantity>457</quantity>
       <barcode_format>EAN</barcode_format>
       <barcode>0087614019789</barcode>
       <model><![CDATA[SW978]]></model>
@@ -3966,43 +3966,6 @@
       <product_with_gift>False</product_with_gift>
     </product>
     <product>
-      <id>457</id>
-      <categories>
-        <category>1745</category>
-      </categories>
-      <title><![CDATA[Beta Sitosterolis 160 mg 60 kaps. (Swanson, JAV)]]></title>
-      <description><![CDATA[<p><strong>BETA SITOSTEROLIS 160 MG 60 KAPS.</strong><br />
-	Maisto papildas<br />
-	60 minkšyų kapsulių</p>
-<p>Swanson maisto papildas Beta Sitosterolis pagamintas JAV, laikantis aukščiausių kokybės standartų. Ilgametė Swanson gamybos patirtis leidžia užtikrinti, kad visi produktai yra kokybiški, efektyvūs ir veiksmingi.</p>
-<p>Swanson Beta Sitosterolis yra Augalinis sterolis, randamas sojų pupelėse, ryžiuose, kviečių gemaluose, kukurūzų aliejuje. Manoma, kad Augaliniai steroliai padeda palaikyti normalią cholesterolio koncentraciją kraujyje.</p>
-<p>Swanson Beta Sitosterolis pagamintas be pridėtinių cukrų, be glitimo, be laktozės, be sojos, be GMO, be dažiklių, termiškai neapdorotas, be pesticidų ir yra 100 proc. natūralus. Tinka vegetarams ir veganams.</p>
-<p>Net 60 Beta Sitosterolio minkštų kapsulių Jums užteks 1 mėn. kursui.</p>
-<p>Swanson Beta Sitosterolis Lietuvoje registruotas Notifikuotų maisto papildų sąraše - MPNR-388</p>
-<p><strong>2 kapsulėse: 320 mg Beta Sitosterolio (iš augalinių sterolių komplekso)<br />
-	</strong></p>
-<p><strong>Sudedamosios dalys: </strong>beta sitosterolis, gelatina, drėgmę išlaikanti medžiaga glicerolis, išgrynintas vanduo.<br />
-	<strong>Vartojimas</strong>: suaugusiems po 1 kapsulę 2 kartus per dieną užsigeriant vandeniu.<br />
-	<strong>Įspėjimas</strong>: jei esate nėščia, žindote kūdikį, sergate arba vartojate vaistus &ndash; dėl maisto papildo vartojimo pasitarkite su gydytoju arba vaistininku. Maisto papildas neturi būti vartojamas kaip maisto pakaitalas. Neviršyti nustatytos rekomenduojamos dozės. Laikyti nuo 0&deg;C iki 25&deg;C, sausoje, vaikams nepasiekiamoje vietoje. Svarbu įvairi ir subalansuota mityba bei sveikas gyvenimo būdas. Partija: žr. ant pakuotės.<br />
-	<strong>Gamintojas</strong>: Swanson Health Products Inc., JAV.<br />
-	<strong>Išskirtinis platintojas Lietuvoje</strong>: UAB &bdquo;Grigiškių vaistinė&ldquo;, Lukšio g. 3, Vilnius, Lietuva, Tel. 866 252550, www.citrina.eu</p>
-<p><span style="color:#fff;">augaliniai steroliai, fitosteroliai, cholesteron,&nbsp;cholestoff, augalų steroliai<br />
-	&nbsp;&nbsp;</span></p>]]></description>
-      <price>9.95</price>
-      <price_old>11.95</price_old>
-      <delivery_text>1-3 d. d.</delivery_text>
-      <images>
-        <image><![CDATA[https://www.citrina.eu/images/uploader/be/beta-sitosterolis-160-mg-60-kaps-swanson-jav-2-1.jpg]]></image>
-      </images>
-      <quantity>462</quantity>
-      <barcode_format>EAN</barcode_format>
-      <barcode>0087614017907</barcode>
-      <model><![CDATA[SW790]]></model>
-      <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
-      <url><![CDATA[https://www.citrina.eu/beta-sitosterolis-160-mg-60-kaps]]></url>
-      <product_with_gift>False</product_with_gift>
-    </product>
-    <product>
       <id>458</id>
       <categories>
         <category>1735</category>
@@ -4852,37 +4815,8 @@
         <category>1735</category>
       </categories>
       <title><![CDATA[Swanson Cinkas (Bisglicinatas) 15 mg 60 kaps. (Swanson, JAV)]]></title>
-      <description><![CDATA[<h3>
-	SWANSON CINKAS (BISGLICINATAS) 15 MG 60 KAPS.<br />
-	<span style="font-size: 12px;">Maisto papildas<br />
-	</span><span style="font-size: 12px;">60 kapsulių&nbsp;</span></h3>
-<p>Swanson maisto papildas Cinkas pagamintas JAV, laikantis aukščiausių kokybės standartų. Ilgametė Swanson gamybos patirtis leidžia užtikrinti, kad visi produktai yra kokybiški, efektyvūs ir veiksmingi.<br />
-	Cinkas svarbus:<br />
-	- normaliai imuninės sistemos veiklai; normaliai rūgščių ir šarmų apykaitai;<br />
-	- normaliai angliavandenių apykaitai; normaliai pažinimo funkcijai;<br />
-	- normaliai DNR sintezei;<br />
-	- normaliam vaisingumui ir reprodukcijai;<br />
-	- normaliai pagrindinių maistinių medžiagų apykaitai;<br />
-	- normaliai riebalų rūgščių apykaitai; normaliai vitamino A apykaitai;<br />
-	- normaliai baltymų sintezei; normaliai kaulų būklei palaikyti;<br />
-	- normaliai plaukų būklei palaikyti; normaliai nagų būklei palaikyti;<br />
-	- normaliai odos būklei palaikyti;<br />
-	- palaikyti normalią testosterono koncentraciją kraujyje;<br />
-	padeda išsaugoti normalų regėjimą ir atliekant tam tikrą funkciją ląstelių dalijimosi procese.<br />
-	Net 60 Cinko kapsulių Jums užteks 2 mėnesiams.<br />
-	Swanson Cinkas pagamintas be pridėtinių cukrų, be glitimo, be laktozės, be sojos, be GMO, be konservantų, be dažiklių, termiškai neapdorotas, be pesticidų ir yra 100 proc. natūralus.<br />
-	Swanson Cinkas yra Lietuvoje registruotas Notifikuotų maisto papildų sąraše - MP-1626/26</p>
-<p><strong>1 kapsulėje:</strong> 15 mg Cinko*<br />
-	Referencinė maistinė vertė - 150 proc.</p>
-<p><strong>Sudedamosios dalys</strong>: želatina, ryžių miltai, glicinas, antioksidantas citrinų rūgštis (E330), cinko bisglicinatas (25%), emulsiklis riebalų rūgščių magnio druskos, lipnumą reguliuojanti medžiaga silicio dioksidas.<br />
-	<strong>Vartojimas</strong>: suaugusiems po 1 kapsulę 1 kartą per dieną po valgio užsigeriant vandeniu.<br />
-	<strong>Įspėjimas</strong>: jei esate nėščia, žindote kūdikį, sergate arba vartojate vaistus &ndash; dėl maisto papildo vartojimo pasitarkite su gydytoju arba vaistininku. Maisto papildas neturi būti vartojamas kaip maisto pakaitalas. Neviršyti nustatytos rekomenduojamos dozės. Laikyti nuo 0&deg;C iki 25&deg;C, sausoje, vaikams nepasiekiamoje vietoje. Svarbu įvairi ir subalansuota mityba bei sveikas gyvenimo būdas. Partija: žr. ant pakuotės.<br />
-	<strong>Gamintojas</strong>: Swanson Health Products Inc., JAV.<br />
-	<strong>Išskirtinis platintojas Lietuvoje</strong>: UAB &bdquo;Grigiškių vaistinė&ldquo;, P. Lukšio g. 3, Vilnius, Lietuva, Tel. 066 252550, www.citrina.eu<br />
-	&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;</p>]]></description>
+      <description><![CDATA[<p>SWANSON CINKAS (BISGLICINATAS) 15 MG 60  KAPS. (SWANSON, JAV)</p>]]></description>
       <price>8.95</price>
-      <price_old>9.95</price_old>
       <delivery_text>1-3 d. d.</delivery_text>
       <images>
         <image><![CDATA[https://www.citrina.eu/images/uploader/sw/swanson-cinkas-bisglicinatas-15-mg-60-kaps-swanson-jav-1.jpg]]></image>

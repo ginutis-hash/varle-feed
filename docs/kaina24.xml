@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> kaina24.lt feed, generated 2026-11-24 22:25 UTC -->
+<!-- citrina.eu -> kaina24.lt feed, generated 2026-11-25 08:32 UTC -->
 <products>
 <product id="36">
 <title><![CDATA[Black Cohosh 540mg 60 kaps. (Swanson, JAV)]]></title>
@@ -147,7 +147,7 @@
 <product id="64">
 <title><![CDATA[Gliukozaminas, Chondroitinas ir MSM 120 tab. (Swanson, JAV)]]></title>
 <price>15.46</price>
-<stock>178</stock>
+<stock>177</stock>
 <ean_code>0087614110097</ean_code>
 <manufacturer_code>SW1009</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -511,7 +511,7 @@
 <product id="144">
 <title><![CDATA[Guarana 500mg 100 kaps. (Swanson, JAV)]]></title>
 <price>8.46</price>
-<stock>458</stock>
+<stock>457</stock>
 <ean_code>0087614019789</ean_code>
 <manufacturer_code>SW978</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1313,19 +1313,6 @@
 <purchase_url><![CDATA[https://www.citrina.eu/vitaminas-b3-niacinas-500-mg-250-kaps-swanson-jav]]></purchase_url>
 <category_name><![CDATA[Imunitetui stiprinti]]></category_name>
 <category_id><![CDATA[1735]]></category_id>
-</product>
-<product id="457">
-<title><![CDATA[Beta Sitosterolis 160 mg 60 kaps. (Swanson, JAV)]]></title>
-<price>9.95</price>
-<stock>462</stock>
-<ean_code>0087614017907</ean_code>
-<manufacturer_code>SW790</manufacturer_code>
-<manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
-<image_url><![CDATA[https://www.citrina.eu/images/uploader/be/beta-sitosterolis-160-mg-60-kaps-swanson-jav-2-1.jpg]]></image_url>
-<product_url><![CDATA[https://www.citrina.eu/beta-sitosterolis-160-mg-60-kaps]]></product_url>
-<purchase_url><![CDATA[https://www.citrina.eu/beta-sitosterolis-160-mg-60-kaps]]></purchase_url>
-<category_name><![CDATA[Vyrų sveikata]]></category_name>
-<category_id><![CDATA[1745]]></category_id>
 </product>
 <product id="458">
 <title><![CDATA[Geležies Bisglicinatas 180 kaps. (Swanson JAV)]]></title>
