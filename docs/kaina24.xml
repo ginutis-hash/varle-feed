@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> kaina24.lt feed, generated 2026-11-26 08:16 UTC -->
+<!-- citrina.eu -> kaina24.lt feed, generated 2026-11-26 21:30 UTC -->
 <products>
 <product id="36">
 <title><![CDATA[Black Cohosh 540mg 60 kaps. (Swanson, JAV)]]></title>
@@ -121,7 +121,7 @@
 <product id="59">
 <title><![CDATA[Super Multivitaminų ir Mineralų be Geležies Kompleksas 130 tab. (Swanson, JAV)]]></title>
 <price>5.95</price>
-<stock>391</stock>
+<stock>389</stock>
 <ean_code>0087614018324</ean_code>
 <manufacturer_code>SW832</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -485,7 +485,7 @@
 <product id="142">
 <title><![CDATA[Ginkgo Biloba Standartizuota 60mg 120 kaps. (Swanson, JAV)]]></title>
 <price>9.95</price>
-<stock>359</stock>
+<stock>358</stock>
 <ean_code>0087614018928</ean_code>
 <manufacturer_code>SW892</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -498,7 +498,7 @@
 <product id="143">
 <title><![CDATA[Gotu Kola 60 kaps. (Swanson, JAV)]]></title>
 <price>5.58</price>
-<stock>463</stock>
+<stock>462</stock>
 <ean_code>0087614113326</ean_code>
 <manufacturer_code>SW1332</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -771,7 +771,7 @@
 <product id="214">
 <title><![CDATA[Natūralus Liuteinas 20mg & Zeaksantinas 2mg 60 kaps. (Swanson, JAV)]]></title>
 <price>14.87</price>
-<stock>496</stock>
+<stock>494</stock>
 <ean_code>0087614029863</ean_code>
 <manufacturer_code>SWU986</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1096,7 +1096,7 @@
 <product id="289">
 <title><![CDATA[Vitaminas B12 100 kaps. (Swanson, JAV)]]></title>
 <price>5.98</price>
-<stock>321</stock>
+<stock>320</stock>
 <ean_code>0087614010304</ean_code>
 <manufacturer_code>SW030</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1317,7 +1317,7 @@
 <product id="458">
 <title><![CDATA[Geležies Bisglicinatas 180 kaps. (Swanson JAV)]]></title>
 <price>12.68</price>
-<stock>435</stock>
+<stock>434</stock>
 <ean_code>0087614020761</ean_code>
 <manufacturer_code>SWU076</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1421,7 +1421,7 @@
 <product id="499">
 <title><![CDATA[Rhodiola (Auksinė Šaknis) Ekstraktas 60 kaps. (Swanson, JAV)]]></title>
 <price>18.95</price>
-<stock>483</stock>
+<stock>0</stock>
 <ean_code>0087614142883</ean_code>
 <manufacturer_code>SWH288</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1434,7 +1434,7 @@
 <product id="548">
 <title><![CDATA[SWANSON FOLIO (METILTETRAHIDROFOLINĖ) RŪGŠTIS 680µG 30 VEG. KAPS. (SWANSON, JAV)]]></title>
 <price>3.95</price>
-<stock>180</stock>
+<stock>179</stock>
 <ean_code>0087614027586</ean_code>
 <manufacturer_code>SWU758</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
