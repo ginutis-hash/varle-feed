@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- citrina.eu -> kaina24.lt feed, generated 2026-11-26 21:30 UTC -->
+<!-- citrina.eu -> kaina24.lt feed, generated 2026-11-27 08:30 UTC -->
 <products>
 <product id="36">
 <title><![CDATA[Black Cohosh 540mg 60 kaps. (Swanson, JAV)]]></title>
@@ -121,7 +121,7 @@
 <product id="59">
 <title><![CDATA[Super Multivitaminų ir Mineralų be Geležies Kompleksas 130 tab. (Swanson, JAV)]]></title>
 <price>5.95</price>
-<stock>389</stock>
+<stock>388</stock>
 <ean_code>0087614018324</ean_code>
 <manufacturer_code>SW832</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -849,7 +849,7 @@
 <product id="232">
 <title><![CDATA[Cinkas 30 mg 250 Veg. tab. (Swanson, JAV)]]></title>
 <price>9.85</price>
-<stock>425</stock>
+<stock>424</stock>
 <ean_code>0087614012032</ean_code>
 <manufacturer_code>SW203</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -940,7 +940,7 @@
 <product id="243">
 <title><![CDATA[L-lizinas 500mg 100 Veg. kaps. (Swanson, JAV)]]></title>
 <price>9.48</price>
-<stock>480</stock>
+<stock>479</stock>
 <ean_code>0087614012681</ean_code>
 <manufacturer_code>SW268</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
@@ -1473,7 +1473,7 @@
 <product id="587">
 <title><![CDATA[Trigubas Magnio Kompleksas 400 Mg 100 Veg. Kaps. (Swanson, JAV)]]></title>
 <price>8.95</price>
-<stock>474</stock>
+<stock>473</stock>
 <ean_code>0087614018089</ean_code>
 <manufacturer_code>SW808</manufacturer_code>
 <manufacturer><![CDATA[Swanson Health Products Inc., JAV]]></manufacturer>
